@@ -255,6 +255,8 @@ traverse(ast, {
 
 ###### 2. 替换原有节点
 
+`path.replaceWith(newNode)` 就是把 AST 中的某个节点 **“挖掉”**，然后 **“塞进”** 一个新的节点。
+
 - path.replaceWith :(单)节点替换函数
   - 还原数字相加： var b = 1 + 2 
   - 还原字符串拼接： var c = "coo" + "kie" 
