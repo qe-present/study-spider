@@ -1,0 +1,5103 @@
+{
+    "result": {
+        "searchQcReminder": null,
+        "songs": [
+            {
+                "name": "他不懂",
+                "id": 1465226154,
+                "pst": 0,
+                "t": 0,
+                "ar": [
+                    {
+                        "id": 6472,
+                        "name": "张杰",
+                        "tns": [],
+                        "alias": [
+                            "Jason Zhang"
+                        ],
+                        "alia": [
+                            "Jason Zhang"
+                        ]
+                    }
+                ],
+                "alia": [],
+                "pop": 100.0,
+                "st": 0,
+                "rt": "",
+                "fee": 1,
+                "v": 44,
+                "crbt": null,
+                "cf": "",
+                "al": {
+                    "id": 92927312,
+                    "name": "听！我们的歌",
+                    "picUrl": "http://p2.music.126.net/Y_9l-ydJzV693ev8bGo-nA==/109951165164760011.jpg",
+                    "tns": [],
+                    "pic_str": "109951165164760011",
+                    "pic": 109951165164760011
+                },
+                "dt": 231863,
+                "h": {
+                    "br": 320000,
+                    "fid": 0,
+                    "size": 9276525,
+                    "vd": -11908.0,
+                    "sr": 48000
+                },
+                "m": {
+                    "br": 192000,
+                    "fid": 0,
+                    "size": 5565933,
+                    "vd": -9272.0,
+                    "sr": 48000
+                },
+                "l": {
+                    "br": 128000,
+                    "fid": 0,
+                    "size": 3710637,
+                    "vd": -7493.0,
+                    "sr": 48000
+                },
+                "sq": {
+                    "br": 811921,
+                    "fid": 0,
+                    "size": 23531917,
+                    "vd": -11929.0,
+                    "sr": 48000
+                },
+                "hr": {
+                    "br": 1579798,
+                    "fid": 0,
+                    "size": 45787301,
+                    "vd": -11859.0,
+                    "sr": 48000
+                },
+                "a": null,
+                "cd": "01",
+                "no": 2,
+                "rtUrl": null,
+                "ftype": 0,
+                "rtUrls": [],
+                "djId": 0,
+                "copyright": 0,
+                "s_id": 0,
+                "mark": 17716813824,
+                "originCoverType": 1,
+                "originSongSimpleData": null,
+                "tagPicList": null,
+                "resourceState": true,
+                "version": 10,
+                "songJumpInfo": null,
+                "entertainmentTags": null,
+                "single": 0,
+                "noCopyrightRcmd": null,
+                "rtype": 0,
+                "rurl": null,
+                "mst": 9,
+                "cp": 1418037,
+                "mv": 0,
+                "publishTime": 0,
+                "privilege": {
+                    "id": 1465226154,
+                    "fee": 1,
+                    "payed": 0,
+                    "st": 0,
+                    "pl": 0,
+                    "dl": 0,
+                    "sp": 0,
+                    "cp": 0,
+                    "subp": 1,
+                    "cs": false,
+                    "maxbr": 999000,
+                    "fl": 0,
+                    "toast": false,
+                    "flag": 260,
+                    "preSell": false,
+                    "playMaxbr": 999000,
+                    "downloadMaxbr": 999000,
+                    "maxBrLevel": "hires",
+                    "playMaxBrLevel": "hires",
+                    "downloadMaxBrLevel": "hires",
+                    "plLevel": "none",
+                    "dlLevel": "none",
+                    "flLevel": "none",
+                    "rscl": null,
+                    "freeTrialPrivilege": {
+                        "resConsumable": true,
+                        "userConsumable": false,
+                        "listenType": 0,
+                        "cannotListenReason": 0,
+                        "playReason": null,
+                        "freeLimitTagType": null
+                    },
+                    "rightSource": 0,
+                    "chargeInfoList": [
+                        {
+                            "rate": 128000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 192000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 320000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 1999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        }
+                    ],
+                    "code": 0,
+                    "message": null,
+                    "plLevels": null,
+                    "dlLevels": null,
+                    "ignoreCache": null,
+                    "bd": null
+                }
+            },
+            {
+                "name": "他不懂",
+                "id": 28059417,
+                "pst": 0,
+                "t": 0,
+                "ar": [
+                    {
+                        "id": 6472,
+                        "name": "张杰",
+                        "tns": [],
+                        "alias": [
+                            "Jason Zhang"
+                        ],
+                        "alia": [
+                            "Jason Zhang"
+                        ]
+                    }
+                ],
+                "alia": [],
+                "pop": 100.0,
+                "st": 0,
+                "rt": "600907000002790687",
+                "fee": 8,
+                "v": 300,
+                "crbt": null,
+                "cf": "",
+                "al": {
+                    "id": 2643348,
+                    "name": "爱，不解释",
+                    "picUrl": "http://p2.music.126.net/mW53BkMgGy37I7yVrUg-aQ==/109951163117902077.jpg",
+                    "tns": [],
+                    "pic_str": "109951163117902077",
+                    "pic": 109951163117902077
+                },
+                "dt": 232213,
+                "h": {
+                    "br": 320000,
+                    "fid": 0,
+                    "size": 9290925,
+                    "vd": 1237.0,
+                    "sr": 48000
+                },
+                "m": {
+                    "br": 192000,
+                    "fid": 0,
+                    "size": 5574573,
+                    "vd": 3874.0,
+                    "sr": 48000
+                },
+                "l": {
+                    "br": 128000,
+                    "fid": 0,
+                    "size": 3716397,
+                    "vd": 5645.0,
+                    "sr": 48000
+                },
+                "sq": {
+                    "br": 748550,
+                    "fid": 0,
+                    "size": 21727925,
+                    "vd": 1263.0,
+                    "sr": 48000
+                },
+                "hr": null,
+                "a": null,
+                "cd": "1",
+                "no": 1,
+                "rtUrl": null,
+                "ftype": 0,
+                "rtUrls": [],
+                "djId": 0,
+                "copyright": 0,
+                "s_id": 0,
+                "mark": 17179877888,
+                "originCoverType": 1,
+                "originSongSimpleData": null,
+                "tagPicList": null,
+                "resourceState": true,
+                "version": 266,
+                "songJumpInfo": null,
+                "entertainmentTags": null,
+                "single": 0,
+                "noCopyrightRcmd": null,
+                "rtype": 0,
+                "rurl": null,
+                "mst": 9,
+                "cp": 636011,
+                "mv": 5779657,
+                "publishTime": 1387468800007,
+                "privilege": {
+                    "id": 28059417,
+                    "fee": 8,
+                    "payed": 0,
+                    "st": 0,
+                    "pl": 320000,
+                    "dl": 0,
+                    "sp": 7,
+                    "cp": 1,
+                    "subp": 1,
+                    "cs": false,
+                    "maxbr": 999000,
+                    "fl": 320000,
+                    "toast": false,
+                    "flag": 4,
+                    "preSell": false,
+                    "playMaxbr": 999000,
+                    "downloadMaxbr": 999000,
+                    "maxBrLevel": "lossless",
+                    "playMaxBrLevel": "lossless",
+                    "downloadMaxBrLevel": "lossless",
+                    "plLevel": "exhigh",
+                    "dlLevel": "none",
+                    "flLevel": "exhigh",
+                    "rscl": null,
+                    "freeTrialPrivilege": {
+                        "resConsumable": false,
+                        "userConsumable": false,
+                        "listenType": 0,
+                        "cannotListenReason": 1,
+                        "playReason": null,
+                        "freeLimitTagType": null
+                    },
+                    "rightSource": 0,
+                    "chargeInfoList": [
+                        {
+                            "rate": 128000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 192000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 320000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        }
+                    ],
+                    "code": 0,
+                    "message": null,
+                    "plLevels": null,
+                    "dlLevels": null,
+                    "ignoreCache": null,
+                    "bd": null
+                }
+            },
+            {
+                "name": "他不懂（她留给你是背影 氛围版）",
+                "id": 2677439059,
+                "pst": 0,
+                "t": 0,
+                "ar": [
+                    {
+                        "id": 47058186,
+                        "name": "小瑞",
+                        "tns": [],
+                        "alias": []
+                    },
+                    {
+                        "id": 95686818,
+                        "name": "泡泡",
+                        "tns": [],
+                        "alias": []
+                    }
+                ],
+                "alia": [],
+                "pop": 95.0,
+                "st": 0,
+                "rt": "",
+                "fee": 8,
+                "v": 38,
+                "crbt": null,
+                "cf": "",
+                "al": {
+                    "id": 263627119,
+                    "name": "他不懂（她留给你是背影）",
+                    "picUrl": "http://p2.music.126.net/0o5WLt1a70L-2vtzLGNvtQ==/109951170504941995.jpg",
+                    "tns": [],
+                    "pic_str": "109951170504941995",
+                    "pic": 109951170504941995
+                },
+                "dt": 182936,
+                "h": {
+                    "br": 320000,
+                    "fid": 0,
+                    "size": 7320599,
+                    "vd": -43077.0,
+                    "sr": 44100
+                },
+                "m": {
+                    "br": 192000,
+                    "fid": 0,
+                    "size": 4392377,
+                    "vd": -40438.0,
+                    "sr": 44100
+                },
+                "l": {
+                    "br": 128000,
+                    "fid": 0,
+                    "size": 2928266,
+                    "vd": -38675.0,
+                    "sr": 44100
+                },
+                "sq": {
+                    "br": 655900,
+                    "fid": 0,
+                    "size": 15001917,
+                    "vd": -43077.0,
+                    "sr": 44100
+                },
+                "hr": null,
+                "a": null,
+                "cd": "01",
+                "no": 2,
+                "rtUrl": null,
+                "ftype": 0,
+                "rtUrls": [],
+                "djId": 0,
+                "copyright": 1,
+                "s_id": 0,
+                "mark": 17179877376,
+                "originCoverType": 2,
+                "originSongSimpleData": {
+                    "songId": 28059417,
+                    "name": "他不懂",
+                    "artists": [
+                        {
+                            "id": 6472,
+                            "name": "张杰"
+                        }
+                    ],
+                    "albumMeta": {
+                        "id": 2643348,
+                        "name": "爱，不解释"
+                    }
+                },
+                "tagPicList": null,
+                "resourceState": true,
+                "version": 4,
+                "songJumpInfo": null,
+                "entertainmentTags": null,
+                "single": 0,
+                "noCopyrightRcmd": null,
+                "rtype": 0,
+                "rurl": null,
+                "mst": 9,
+                "cp": 1416503,
+                "mv": 0,
+                "publishTime": 1740326400000,
+                "privilege": {
+                    "id": 2677439059,
+                    "fee": 8,
+                    "payed": 0,
+                    "st": 0,
+                    "pl": 320000,
+                    "dl": 0,
+                    "sp": 7,
+                    "cp": 1,
+                    "subp": 1,
+                    "cs": false,
+                    "maxbr": 999000,
+                    "fl": 320000,
+                    "toast": false,
+                    "flag": 260,
+                    "preSell": false,
+                    "playMaxbr": 999000,
+                    "downloadMaxbr": 999000,
+                    "maxBrLevel": "lossless",
+                    "playMaxBrLevel": "lossless",
+                    "downloadMaxBrLevel": "lossless",
+                    "plLevel": "exhigh",
+                    "dlLevel": "none",
+                    "flLevel": "exhigh",
+                    "rscl": null,
+                    "freeTrialPrivilege": {
+                        "resConsumable": false,
+                        "userConsumable": false,
+                        "listenType": 0,
+                        "cannotListenReason": 1,
+                        "playReason": null,
+                        "freeLimitTagType": null
+                    },
+                    "rightSource": 0,
+                    "chargeInfoList": [
+                        {
+                            "rate": 128000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 192000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 320000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        }
+                    ],
+                    "code": 0,
+                    "message": null,
+                    "plLevels": null,
+                    "dlLevels": null,
+                    "ignoreCache": null,
+                    "bd": null
+                }
+            },
+            {
+                "name": "他不懂 (Live)",
+                "id": 570296464,
+                "pst": 0,
+                "t": 0,
+                "ar": [
+                    {
+                        "id": 6472,
+                        "name": "张杰",
+                        "tns": [],
+                        "alias": [
+                            "Jason Zhang"
+                        ],
+                        "alia": [
+                            "Jason Zhang"
+                        ]
+                    },
+                    {
+                        "id": 29798501,
+                        "name": "张如",
+                        "tns": [],
+                        "alias": []
+                    },
+                    {
+                        "id": 29798502,
+                        "name": "张意",
+                        "tns": [],
+                        "alias": []
+                    },
+                    {
+                        "id": 29818509,
+                        "name": "刘佳琪",
+                        "tns": [],
+                        "alias": []
+                    },
+                    {
+                        "id": 29819256,
+                        "name": "曹秋艺",
+                        "tns": [],
+                        "alias": []
+                    }
+                ],
+                "alia": [],
+                "pop": 90.0,
+                "st": 0,
+                "rt": null,
+                "fee": 0,
+                "v": 54,
+                "crbt": null,
+                "cf": "",
+                "al": {
+                    "id": 39391641,
+                    "name": "我想和你唱第三季 第6期",
+                    "picUrl": "http://p2.music.126.net/LbxlGM1DebBc14p75GjhGg==/109951165352230419.jpg",
+                    "tns": [],
+                    "pic_str": "109951165352230419",
+                    "pic": 109951165352230419
+                },
+                "dt": 232223,
+                "h": {
+                    "br": 320000,
+                    "fid": 0,
+                    "size": 9290925,
+                    "vd": -33083.0,
+                    "sr": 48000
+                },
+                "m": {
+                    "br": 192000,
+                    "fid": 0,
+                    "size": 5574573,
+                    "vd": -30501.0,
+                    "sr": 48000
+                },
+                "l": {
+                    "br": 128000,
+                    "fid": 0,
+                    "size": 3716397,
+                    "vd": -28908.0,
+                    "sr": 48000
+                },
+                "sq": {
+                    "br": 1720853,
+                    "fid": 0,
+                    "size": 49952865,
+                    "vd": -33075.0,
+                    "sr": 48000
+                },
+                "hr": null,
+                "a": null,
+                "cd": "1",
+                "no": 3,
+                "rtUrl": null,
+                "ftype": 0,
+                "rtUrls": [],
+                "djId": 0,
+                "copyright": 0,
+                "s_id": 0,
+                "mark": 17179934720,
+                "originCoverType": 2,
+                "originSongSimpleData": {
+                    "songId": 28059417,
+                    "name": "他不懂",
+                    "artists": [
+                        {
+                            "id": 6472,
+                            "name": "张杰"
+                        }
+                    ],
+                    "albumMeta": {
+                        "id": 2643348,
+                        "name": "爱，不解释"
+                    }
+                },
+                "tagPicList": null,
+                "resourceState": true,
+                "version": 20,
+                "songJumpInfo": null,
+                "entertainmentTags": null,
+                "single": 0,
+                "noCopyrightRcmd": null,
+                "rtype": 0,
+                "rurl": null,
+                "mst": 9,
+                "cp": 1418136,
+                "mv": 0,
+                "publishTime": 1527782400000,
+                "privilege": {
+                    "id": 570296464,
+                    "fee": 0,
+                    "payed": 0,
+                    "st": 0,
+                    "pl": 320000,
+                    "dl": 999000,
+                    "sp": 7,
+                    "cp": 1,
+                    "subp": 1,
+                    "cs": false,
+                    "maxbr": 999000,
+                    "fl": 320000,
+                    "toast": false,
+                    "flag": 256,
+                    "preSell": false,
+                    "playMaxbr": 999000,
+                    "downloadMaxbr": 999000,
+                    "maxBrLevel": "lossless",
+                    "playMaxBrLevel": "lossless",
+                    "downloadMaxBrLevel": "lossless",
+                    "plLevel": "exhigh",
+                    "dlLevel": "lossless",
+                    "flLevel": "exhigh",
+                    "rscl": null,
+                    "freeTrialPrivilege": {
+                        "resConsumable": false,
+                        "userConsumable": false,
+                        "listenType": 0,
+                        "cannotListenReason": 1,
+                        "playReason": null,
+                        "freeLimitTagType": null
+                    },
+                    "rightSource": 0,
+                    "chargeInfoList": [
+                        {
+                            "rate": 128000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 192000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 320000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        }
+                    ],
+                    "code": 0,
+                    "message": null,
+                    "plLevels": null,
+                    "dlLevels": null,
+                    "ignoreCache": null,
+                    "bd": null
+                }
+            },
+            {
+                "name": "他不懂0.8X（她留你是背影）",
+                "id": 2676618879,
+                "pst": 0,
+                "t": 0,
+                "ar": [
+                    {
+                        "id": 52807985,
+                        "name": "周潇齐",
+                        "tns": [],
+                        "alias": [
+                            "YuanWeiBing"
+                        ],
+                        "alia": [
+                            "YuanWeiBing"
+                        ]
+                    }
+                ],
+                "alia": [],
+                "pop": 60.0,
+                "st": 0,
+                "rt": "",
+                "fee": 8,
+                "v": 41,
+                "crbt": null,
+                "cf": "",
+                "al": {
+                    "id": 263348552,
+                    "name": "他不懂（她给留你是背影）",
+                    "picUrl": "http://p2.music.126.net/UdTSSoAJUjI2RGOhrj6cow==/109951170516410860.jpg",
+                    "tns": [],
+                    "pic_str": "109951170516410860",
+                    "pic": 109951170516410860
+                },
+                "dt": 222888,
+                "h": {
+                    "br": 320000,
+                    "fid": 0,
+                    "size": 8918248,
+                    "vd": -34256.0,
+                    "sr": 44100
+                },
+                "m": {
+                    "br": 192000,
+                    "fid": 0,
+                    "size": 5350966,
+                    "vd": -31611.0,
+                    "sr": 44100
+                },
+                "l": {
+                    "br": 128000,
+                    "fid": 0,
+                    "size": 3567325,
+                    "vd": -29809.0,
+                    "sr": 44100
+                },
+                "sq": {
+                    "br": 396045,
+                    "fid": 0,
+                    "size": 11038332,
+                    "vd": -34256.0,
+                    "sr": 44100
+                },
+                "hr": null,
+                "a": null,
+                "cd": "01",
+                "no": 1,
+                "rtUrl": null,
+                "ftype": 0,
+                "rtUrls": [],
+                "djId": 0,
+                "copyright": 1,
+                "s_id": 0,
+                "mark": 17179877376,
+                "originCoverType": 2,
+                "originSongSimpleData": {
+                    "songId": 28059417,
+                    "name": "他不懂",
+                    "artists": [
+                        {
+                            "id": 6472,
+                            "name": "张杰"
+                        }
+                    ],
+                    "albumMeta": {
+                        "id": 2643348,
+                        "name": "爱，不解释"
+                    }
+                },
+                "tagPicList": null,
+                "resourceState": true,
+                "version": 7,
+                "songJumpInfo": null,
+                "entertainmentTags": null,
+                "single": 0,
+                "noCopyrightRcmd": null,
+                "rtype": 0,
+                "rurl": null,
+                "mst": 9,
+                "cp": 1416503,
+                "mv": 0,
+                "publishTime": 1739894400000,
+                "privilege": {
+                    "id": 2676618879,
+                    "fee": 8,
+                    "payed": 0,
+                    "st": 0,
+                    "pl": 320000,
+                    "dl": 0,
+                    "sp": 7,
+                    "cp": 1,
+                    "subp": 1,
+                    "cs": false,
+                    "maxbr": 999000,
+                    "fl": 320000,
+                    "toast": false,
+                    "flag": 260,
+                    "preSell": false,
+                    "playMaxbr": 999000,
+                    "downloadMaxbr": 999000,
+                    "maxBrLevel": "lossless",
+                    "playMaxBrLevel": "lossless",
+                    "downloadMaxBrLevel": "lossless",
+                    "plLevel": "exhigh",
+                    "dlLevel": "none",
+                    "flLevel": "exhigh",
+                    "rscl": null,
+                    "freeTrialPrivilege": {
+                        "resConsumable": false,
+                        "userConsumable": false,
+                        "listenType": 0,
+                        "cannotListenReason": 1,
+                        "playReason": null,
+                        "freeLimitTagType": null
+                    },
+                    "rightSource": 0,
+                    "chargeInfoList": [
+                        {
+                            "rate": 128000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 192000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 320000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        }
+                    ],
+                    "code": 0,
+                    "message": null,
+                    "plLevels": null,
+                    "dlLevels": null,
+                    "ignoreCache": null,
+                    "bd": null
+                }
+            },
+            {
+                "name": "他不懂（DJ版）",
+                "id": 2682082311,
+                "pst": 0,
+                "t": 0,
+                "ar": [
+                    {
+                        "id": 60846890,
+                        "name": "Saiin7",
+                        "tns": [],
+                        "alias": []
+                    }
+                ],
+                "alia": [],
+                "pop": 85.0,
+                "st": 0,
+                "rt": "",
+                "fee": 8,
+                "v": 37,
+                "crbt": null,
+                "cf": "",
+                "al": {
+                    "id": 265065195,
+                    "name": "他不懂（DJ版）",
+                    "picUrl": "http://p2.music.126.net/9OKCfCfOCBKktBji6hKA4A==/109951170566590135.jpg",
+                    "tns": [],
+                    "pic_str": "109951170566590135",
+                    "pic": 109951170566590135
+                },
+                "dt": 228750,
+                "h": {
+                    "br": 320000,
+                    "fid": 0,
+                    "size": 9152685,
+                    "vd": -53056.0,
+                    "sr": 48000
+                },
+                "m": {
+                    "br": 192000,
+                    "fid": 0,
+                    "size": 5491629,
+                    "vd": -50425.0,
+                    "sr": 48000
+                },
+                "l": {
+                    "br": 128000,
+                    "fid": 0,
+                    "size": 3661101,
+                    "vd": -48708.0,
+                    "sr": 48000
+                },
+                "sq": {
+                    "br": 866496,
+                    "fid": 0,
+                    "size": 24780578,
+                    "vd": -53056.0,
+                    "sr": 48000
+                },
+                "hr": {
+                    "br": 1634981,
+                    "fid": 0,
+                    "size": 46754462,
+                    "vd": -53056.0,
+                    "sr": 48000
+                },
+                "a": null,
+                "cd": "01",
+                "no": 1,
+                "rtUrl": null,
+                "ftype": 0,
+                "rtUrls": [],
+                "djId": 0,
+                "copyright": 1,
+                "s_id": 0,
+                "mark": 17716748288,
+                "originCoverType": 2,
+                "originSongSimpleData": {
+                    "songId": 28059417,
+                    "name": "他不懂",
+                    "artists": [
+                        {
+                            "id": 6472,
+                            "name": "张杰"
+                        }
+                    ],
+                    "albumMeta": {
+                        "id": 2643348,
+                        "name": "爱，不解释"
+                    }
+                },
+                "tagPicList": null,
+                "resourceState": true,
+                "version": 3,
+                "songJumpInfo": null,
+                "entertainmentTags": null,
+                "single": 0,
+                "noCopyrightRcmd": null,
+                "rtype": 0,
+                "rurl": null,
+                "mst": 9,
+                "cp": 1416503,
+                "mv": 0,
+                "publishTime": 1741276800000,
+                "privilege": {
+                    "id": 2682082311,
+                    "fee": 8,
+                    "payed": 0,
+                    "st": 0,
+                    "pl": 320000,
+                    "dl": 0,
+                    "sp": 7,
+                    "cp": 1,
+                    "subp": 1,
+                    "cs": false,
+                    "maxbr": 999000,
+                    "fl": 320000,
+                    "toast": false,
+                    "flag": 260,
+                    "preSell": false,
+                    "playMaxbr": 999000,
+                    "downloadMaxbr": 999000,
+                    "maxBrLevel": "hires",
+                    "playMaxBrLevel": "hires",
+                    "downloadMaxBrLevel": "hires",
+                    "plLevel": "exhigh",
+                    "dlLevel": "none",
+                    "flLevel": "exhigh",
+                    "rscl": null,
+                    "freeTrialPrivilege": {
+                        "resConsumable": false,
+                        "userConsumable": false,
+                        "listenType": 0,
+                        "cannotListenReason": 1,
+                        "playReason": null,
+                        "freeLimitTagType": null
+                    },
+                    "rightSource": 0,
+                    "chargeInfoList": [
+                        {
+                            "rate": 128000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 192000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 320000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 1999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        }
+                    ],
+                    "code": 0,
+                    "message": null,
+                    "plLevels": null,
+                    "dlLevels": null,
+                    "ignoreCache": null,
+                    "bd": null
+                }
+            },
+            {
+                "name": "他不懂",
+                "id": 2696316196,
+                "pst": 0,
+                "t": 0,
+                "ar": [
+                    {
+                        "id": 35136304,
+                        "name": "卢卢快闭嘴",
+                        "tns": [],
+                        "alias": []
+                    }
+                ],
+                "alia": [],
+                "pop": 75.0,
+                "st": 0,
+                "rt": "",
+                "fee": 0,
+                "v": 36,
+                "crbt": null,
+                "cf": "",
+                "al": {
+                    "id": 269445167,
+                    "name": "他不懂",
+                    "picUrl": "http://p2.music.126.net/f7WPQeIyXpt3-O6_Elij9g==/109951170735438324.jpg",
+                    "tns": [],
+                    "pic_str": "109951170735438324",
+                    "pic": 109951170735438324
+                },
+                "dt": 208427,
+                "h": {
+                    "br": 320000,
+                    "fid": 0,
+                    "size": 8339565,
+                    "vd": -43583.0,
+                    "sr": 48000
+                },
+                "m": {
+                    "br": 192000,
+                    "fid": 0,
+                    "size": 5003757,
+                    "vd": -40977.0,
+                    "sr": 48000
+                },
+                "l": {
+                    "br": 128000,
+                    "fid": 0,
+                    "size": 3335853,
+                    "vd": -39302.0,
+                    "sr": 48000
+                },
+                "sq": {
+                    "br": 827118,
+                    "fid": 0,
+                    "size": 21553120,
+                    "vd": -43577.0,
+                    "sr": 48000
+                },
+                "hr": {
+                    "br": 1579599,
+                    "fid": 0,
+                    "size": 41157817,
+                    "vd": -43577.0,
+                    "sr": 48000
+                },
+                "a": null,
+                "cd": "01",
+                "no": 1,
+                "rtUrl": null,
+                "ftype": 0,
+                "rtUrls": [],
+                "djId": 0,
+                "copyright": 0,
+                "s_id": 0,
+                "mark": 536871040,
+                "originCoverType": 2,
+                "originSongSimpleData": {
+                    "songId": 28059417,
+                    "name": "他不懂",
+                    "artists": [
+                        {
+                            "id": 6472,
+                            "name": "张杰"
+                        }
+                    ],
+                    "albumMeta": {
+                        "id": 2643348,
+                        "name": "爱，不解释"
+                    }
+                },
+                "tagPicList": null,
+                "resourceState": true,
+                "version": 2,
+                "songJumpInfo": null,
+                "entertainmentTags": null,
+                "single": 0,
+                "noCopyrightRcmd": null,
+                "rtype": 0,
+                "rurl": null,
+                "mst": 9,
+                "cp": 0,
+                "mv": 0,
+                "publishTime": 1730131200000,
+                "privilege": {
+                    "id": 2696316196,
+                    "fee": 0,
+                    "payed": 0,
+                    "st": 0,
+                    "pl": 320000,
+                    "dl": 999000,
+                    "sp": 7,
+                    "cp": 1,
+                    "subp": 1,
+                    "cs": false,
+                    "maxbr": 999000,
+                    "fl": 320000,
+                    "toast": false,
+                    "flag": 129,
+                    "preSell": false,
+                    "playMaxbr": 999000,
+                    "downloadMaxbr": 999000,
+                    "maxBrLevel": "hires",
+                    "playMaxBrLevel": "hires",
+                    "downloadMaxBrLevel": "hires",
+                    "plLevel": "exhigh",
+                    "dlLevel": "hires",
+                    "flLevel": "exhigh",
+                    "rscl": null,
+                    "freeTrialPrivilege": {
+                        "resConsumable": false,
+                        "userConsumable": false,
+                        "listenType": 0,
+                        "cannotListenReason": 1,
+                        "playReason": null,
+                        "freeLimitTagType": null
+                    },
+                    "rightSource": 0,
+                    "chargeInfoList": [
+                        {
+                            "rate": 128000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 192000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 320000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 1999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        }
+                    ],
+                    "code": 0,
+                    "message": null,
+                    "plLevels": null,
+                    "dlLevels": null,
+                    "ignoreCache": null,
+                    "bd": null
+                }
+            },
+            {
+                "name": "他不懂",
+                "id": 1898194086,
+                "pst": 0,
+                "t": 0,
+                "ar": [
+                    {
+                        "id": 10200,
+                        "name": "郁可唯",
+                        "tns": [],
+                        "alias": [
+                            "Yisa Yu"
+                        ],
+                        "alia": [
+                            "Yisa Yu"
+                        ]
+                    }
+                ],
+                "alia": [],
+                "pop": 100.0,
+                "st": 0,
+                "rt": "",
+                "fee": 1,
+                "v": 51,
+                "crbt": null,
+                "cf": "",
+                "al": {
+                    "id": 136638299,
+                    "name": "时光音乐会 第6期",
+                    "picUrl": "http://p2.music.126.net/kYApE6ugBWDaTJTzuPxJvg==/109951166659350157.jpg",
+                    "tns": [],
+                    "pic_str": "109951166659350157",
+                    "pic": 109951166659350157
+                },
+                "dt": 221207,
+                "h": {
+                    "br": 320000,
+                    "fid": 0,
+                    "size": 8851374,
+                    "vd": -21365.0,
+                    "sr": 44100
+                },
+                "m": {
+                    "br": 192000,
+                    "fid": 0,
+                    "size": 5310842,
+                    "vd": -18721.0,
+                    "sr": 44100
+                },
+                "l": {
+                    "br": 128000,
+                    "fid": 0,
+                    "size": 3540576,
+                    "vd": -16987.0,
+                    "sr": 44100
+                },
+                "sq": {
+                    "br": 808716,
+                    "fid": 0,
+                    "size": 22361746,
+                    "vd": -21357.0,
+                    "sr": 44100
+                },
+                "hr": null,
+                "a": null,
+                "cd": "01",
+                "no": 3,
+                "rtUrl": null,
+                "ftype": 0,
+                "rtUrls": [],
+                "djId": 0,
+                "copyright": 0,
+                "s_id": 0,
+                "mark": 17179877376,
+                "originCoverType": 2,
+                "originSongSimpleData": {
+                    "songId": 28059417,
+                    "name": "他不懂",
+                    "artists": [
+                        {
+                            "id": 6472,
+                            "name": "张杰"
+                        }
+                    ],
+                    "albumMeta": {
+                        "id": 2643348,
+                        "name": "爱，不解释"
+                    }
+                },
+                "tagPicList": null,
+                "resourceState": true,
+                "version": 17,
+                "songJumpInfo": null,
+                "entertainmentTags": null,
+                "single": 0,
+                "noCopyrightRcmd": null,
+                "rtype": 0,
+                "rurl": null,
+                "mst": 9,
+                "cp": 2706561,
+                "mv": 0,
+                "publishTime": 0,
+                "privilege": {
+                    "id": 1898194086,
+                    "fee": 1,
+                    "payed": 0,
+                    "st": 0,
+                    "pl": 0,
+                    "dl": 0,
+                    "sp": 0,
+                    "cp": 0,
+                    "subp": 1,
+                    "cs": false,
+                    "maxbr": 999000,
+                    "fl": 0,
+                    "toast": false,
+                    "flag": 4,
+                    "preSell": false,
+                    "playMaxbr": 999000,
+                    "downloadMaxbr": 999000,
+                    "maxBrLevel": "lossless",
+                    "playMaxBrLevel": "lossless",
+                    "downloadMaxBrLevel": "lossless",
+                    "plLevel": "none",
+                    "dlLevel": "none",
+                    "flLevel": "none",
+                    "rscl": null,
+                    "freeTrialPrivilege": {
+                        "resConsumable": true,
+                        "userConsumable": false,
+                        "listenType": 0,
+                        "cannotListenReason": 0,
+                        "playReason": null,
+                        "freeLimitTagType": null
+                    },
+                    "rightSource": 0,
+                    "chargeInfoList": [
+                        {
+                            "rate": 128000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 192000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 320000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        }
+                    ],
+                    "code": 0,
+                    "message": null,
+                    "plLevels": null,
+                    "dlLevels": null,
+                    "ignoreCache": null,
+                    "bd": null
+                }
+            },
+            {
+                "name": "他不懂（温柔女生版）",
+                "id": 2682082309,
+                "pst": 0,
+                "t": 0,
+                "ar": [
+                    {
+                        "id": 96519739,
+                        "name": "邱宇馨",
+                        "tns": [],
+                        "alias": []
+                    }
+                ],
+                "alia": [],
+                "pop": 25.0,
+                "st": 0,
+                "rt": "",
+                "fee": 8,
+                "v": 37,
+                "crbt": null,
+                "cf": "",
+                "al": {
+                    "id": 265064332,
+                    "name": "他不懂（温柔女生版）",
+                    "picUrl": "http://p2.music.126.net/R4svg4oyWFKHy8_-ru8zvQ==/109951170566582400.jpg",
+                    "tns": [],
+                    "pic_str": "109951170566582400",
+                    "pic": 109951170566582400
+                },
+                "dt": 220000,
+                "h": {
+                    "br": 320002,
+                    "fid": 0,
+                    "size": 8802264,
+                    "vd": -19121.0,
+                    "sr": 44100
+                },
+                "m": {
+                    "br": 192002,
+                    "fid": 0,
+                    "size": 5281376,
+                    "vd": -16501.0,
+                    "sr": 44100
+                },
+                "l": {
+                    "br": 128002,
+                    "fid": 0,
+                    "size": 3520932,
+                    "vd": -14782.0,
+                    "sr": 44100
+                },
+                "sq": {
+                    "br": 1475927,
+                    "fid": 0,
+                    "size": 40592032,
+                    "vd": -19119.0,
+                    "sr": 44100
+                },
+                "hr": null,
+                "a": null,
+                "cd": "01",
+                "no": 1,
+                "rtUrl": null,
+                "ftype": 0,
+                "rtUrls": [],
+                "djId": 0,
+                "copyright": 1,
+                "s_id": 0,
+                "mark": 17179877376,
+                "originCoverType": 2,
+                "originSongSimpleData": {
+                    "songId": 28059417,
+                    "name": "他不懂",
+                    "artists": [
+                        {
+                            "id": 6472,
+                            "name": "张杰"
+                        }
+                    ],
+                    "albumMeta": {
+                        "id": 2643348,
+                        "name": "爱，不解释"
+                    }
+                },
+                "tagPicList": null,
+                "resourceState": true,
+                "version": 3,
+                "songJumpInfo": null,
+                "entertainmentTags": null,
+                "single": 0,
+                "noCopyrightRcmd": null,
+                "rtype": 0,
+                "rurl": null,
+                "mst": 9,
+                "cp": 1416503,
+                "mv": 0,
+                "publishTime": 1741276800000,
+                "privilege": {
+                    "id": 2682082309,
+                    "fee": 8,
+                    "payed": 0,
+                    "st": 0,
+                    "pl": 320000,
+                    "dl": 0,
+                    "sp": 7,
+                    "cp": 1,
+                    "subp": 1,
+                    "cs": false,
+                    "maxbr": 999000,
+                    "fl": 320000,
+                    "toast": false,
+                    "flag": 260,
+                    "preSell": false,
+                    "playMaxbr": 999000,
+                    "downloadMaxbr": 999000,
+                    "maxBrLevel": "lossless",
+                    "playMaxBrLevel": "lossless",
+                    "downloadMaxBrLevel": "lossless",
+                    "plLevel": "exhigh",
+                    "dlLevel": "none",
+                    "flLevel": "exhigh",
+                    "rscl": null,
+                    "freeTrialPrivilege": {
+                        "resConsumable": false,
+                        "userConsumable": false,
+                        "listenType": 0,
+                        "cannotListenReason": 1,
+                        "playReason": null,
+                        "freeLimitTagType": null
+                    },
+                    "rightSource": 0,
+                    "chargeInfoList": [
+                        {
+                            "rate": 128000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 192000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 320000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        }
+                    ],
+                    "code": 0,
+                    "message": null,
+                    "plLevels": null,
+                    "dlLevels": null,
+                    "ignoreCache": null,
+                    "bd": null
+                }
+            },
+            {
+                "name": "他不懂",
+                "id": 2042256453,
+                "pst": 0,
+                "t": 0,
+                "ar": [
+                    {
+                        "id": 14312549,
+                        "name": "王贰浪",
+                        "tns": [],
+                        "alias": []
+                    },
+                    {
+                        "id": 12124013,
+                        "name": "俞天时",
+                        "tns": [],
+                        "alias": [
+                            "KOZAY"
+                        ],
+                        "alia": [
+                            "KOZAY"
+                        ]
+                    }
+                ],
+                "alia": [],
+                "pop": 100.0,
+                "st": 0,
+                "rt": "",
+                "fee": 8,
+                "v": 42,
+                "crbt": null,
+                "cf": "",
+                "al": {
+                    "id": 164375468,
+                    "name": "他不懂",
+                    "picUrl": "http://p2.music.126.net/KLPh99KHbl1FDQwNVEl1cw==/109951168569927497.jpg",
+                    "tns": [],
+                    "pic_str": "109951168569927497",
+                    "pic": 109951168569927497
+                },
+                "dt": 207884,
+                "h": {
+                    "br": 320000,
+                    "fid": 0,
+                    "size": 8317485,
+                    "vd": -30301.0,
+                    "sr": 48000
+                },
+                "m": {
+                    "br": 192000,
+                    "fid": 0,
+                    "size": 4990509,
+                    "vd": -27769.0,
+                    "sr": 48000
+                },
+                "l": {
+                    "br": 128000,
+                    "fid": 0,
+                    "size": 3327021,
+                    "vd": -26253.0,
+                    "sr": 48000
+                },
+                "sq": {
+                    "br": 938218,
+                    "fid": 0,
+                    "size": 24380120,
+                    "vd": -30385.0,
+                    "sr": 48000
+                },
+                "hr": {
+                    "br": 1706624,
+                    "fid": 0,
+                    "size": 44347552,
+                    "vd": -30288.0,
+                    "sr": 48000
+                },
+                "a": null,
+                "cd": "01",
+                "no": 1,
+                "rtUrl": null,
+                "ftype": 0,
+                "rtUrls": [],
+                "djId": 0,
+                "copyright": 0,
+                "s_id": 0,
+                "mark": 17716748288,
+                "originCoverType": 2,
+                "originSongSimpleData": {
+                    "songId": 28059417,
+                    "name": "他不懂",
+                    "artists": [
+                        {
+                            "id": 6472,
+                            "name": "张杰"
+                        }
+                    ],
+                    "albumMeta": {
+                        "id": 2643348,
+                        "name": "爱，不解释"
+                    }
+                },
+                "tagPicList": null,
+                "resourceState": true,
+                "version": 8,
+                "songJumpInfo": null,
+                "entertainmentTags": null,
+                "single": 0,
+                "noCopyrightRcmd": null,
+                "rtype": 0,
+                "rurl": null,
+                "mst": 9,
+                "cp": 0,
+                "mv": 0,
+                "publishTime": 0,
+                "tns": [
+                    "你的心"
+                ],
+                "privilege": {
+                    "id": 2042256453,
+                    "fee": 8,
+                    "payed": 0,
+                    "st": 0,
+                    "pl": 320000,
+                    "dl": 0,
+                    "sp": 7,
+                    "cp": 1,
+                    "subp": 1,
+                    "cs": false,
+                    "maxbr": 999000,
+                    "fl": 320000,
+                    "toast": false,
+                    "flag": 4,
+                    "preSell": false,
+                    "playMaxbr": 999000,
+                    "downloadMaxbr": 999000,
+                    "maxBrLevel": "hires",
+                    "playMaxBrLevel": "hires",
+                    "downloadMaxBrLevel": "hires",
+                    "plLevel": "exhigh",
+                    "dlLevel": "none",
+                    "flLevel": "exhigh",
+                    "rscl": null,
+                    "freeTrialPrivilege": {
+                        "resConsumable": false,
+                        "userConsumable": false,
+                        "listenType": 0,
+                        "cannotListenReason": 1,
+                        "playReason": null,
+                        "freeLimitTagType": null
+                    },
+                    "rightSource": 0,
+                    "chargeInfoList": [
+                        {
+                            "rate": 128000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 192000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 320000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 1999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        }
+                    ],
+                    "code": 0,
+                    "message": null,
+                    "plLevels": null,
+                    "dlLevels": null,
+                    "ignoreCache": null,
+                    "bd": null
+                }
+            },
+            {
+                "name": "他不懂 (女版)",
+                "id": 2735584971,
+                "pst": 0,
+                "t": 0,
+                "ar": [
+                    {
+                        "id": 28304831,
+                        "name": "吕口口",
+                        "tns": [],
+                        "alias": []
+                    }
+                ],
+                "alia": [],
+                "pop": 25.0,
+                "st": 0,
+                "rt": "",
+                "fee": 0,
+                "v": 36,
+                "crbt": null,
+                "cf": "",
+                "al": {
+                    "id": 281303529,
+                    "name": "他不懂",
+                    "picUrl": "http://p2.music.126.net/RZ2o_Cbm8nVyVX8r-LXK9g==/109951171846373585.jpg",
+                    "tns": [],
+                    "pic_str": "109951171846373585",
+                    "pic": 109951171846373585
+                },
+                "dt": 206557,
+                "h": {
+                    "br": 320000,
+                    "fid": 0,
+                    "size": 8264685,
+                    "vd": -24789.0,
+                    "sr": 48000
+                },
+                "m": {
+                    "br": 192000,
+                    "fid": 0,
+                    "size": 4958829,
+                    "vd": -22156.0,
+                    "sr": 48000
+                },
+                "l": {
+                    "br": 128000,
+                    "fid": 0,
+                    "size": 3305901,
+                    "vd": -20466.0,
+                    "sr": 48000
+                },
+                "sq": {
+                    "br": 837574,
+                    "fid": 0,
+                    "size": 21629702,
+                    "vd": -24770.0,
+                    "sr": 48000
+                },
+                "hr": {
+                    "br": 1606260,
+                    "fid": 0,
+                    "size": 41476918,
+                    "vd": -24770.0,
+                    "sr": 48000
+                },
+                "a": null,
+                "cd": "01",
+                "no": 1,
+                "rtUrl": null,
+                "ftype": 0,
+                "rtUrls": [],
+                "djId": 0,
+                "copyright": 0,
+                "s_id": 0,
+                "mark": 536871040,
+                "originCoverType": 2,
+                "originSongSimpleData": {
+                    "songId": 28059417,
+                    "name": "他不懂",
+                    "artists": [
+                        {
+                            "id": 6472,
+                            "name": "张杰"
+                        }
+                    ],
+                    "albumMeta": {
+                        "id": 2643348,
+                        "name": "爱，不解释"
+                    }
+                },
+                "tagPicList": null,
+                "resourceState": true,
+                "version": 2,
+                "songJumpInfo": null,
+                "entertainmentTags": null,
+                "single": 0,
+                "noCopyrightRcmd": null,
+                "rtype": 0,
+                "rurl": null,
+                "mst": 9,
+                "cp": 0,
+                "mv": 0,
+                "publishTime": 1705507200000,
+                "privilege": {
+                    "id": 2735584971,
+                    "fee": 0,
+                    "payed": 0,
+                    "st": 0,
+                    "pl": 320000,
+                    "dl": 999000,
+                    "sp": 7,
+                    "cp": 1,
+                    "subp": 1,
+                    "cs": false,
+                    "maxbr": 999000,
+                    "fl": 320000,
+                    "toast": false,
+                    "flag": 129,
+                    "preSell": false,
+                    "playMaxbr": 999000,
+                    "downloadMaxbr": 999000,
+                    "maxBrLevel": "hires",
+                    "playMaxBrLevel": "hires",
+                    "downloadMaxBrLevel": "hires",
+                    "plLevel": "exhigh",
+                    "dlLevel": "hires",
+                    "flLevel": "exhigh",
+                    "rscl": null,
+                    "freeTrialPrivilege": {
+                        "resConsumable": false,
+                        "userConsumable": false,
+                        "listenType": 0,
+                        "cannotListenReason": 1,
+                        "playReason": null,
+                        "freeLimitTagType": null
+                    },
+                    "rightSource": 0,
+                    "chargeInfoList": [
+                        {
+                            "rate": 128000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 192000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 320000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 1999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        }
+                    ],
+                    "code": 0,
+                    "message": null,
+                    "plLevels": null,
+                    "dlLevels": null,
+                    "ignoreCache": null,
+                    "bd": null
+                }
+            },
+            {
+                "name": "他不懂",
+                "id": 1850263924,
+                "pst": 0,
+                "t": 0,
+                "ar": [
+                    {
+                        "id": 8162,
+                        "name": "金池",
+                        "tns": [],
+                        "alias": []
+                    }
+                ],
+                "alia": [],
+                "pop": 75.0,
+                "st": 0,
+                "rt": "",
+                "fee": 8,
+                "v": 44,
+                "crbt": null,
+                "cf": "",
+                "al": {
+                    "id": 128421743,
+                    "name": "谁是宝藏歌手 第7期",
+                    "picUrl": "http://p2.music.126.net/cAtA6mp7QEkHb0hPUZqplQ==/109951166056048441.jpg",
+                    "tns": [],
+                    "pic_str": "109951166056048441",
+                    "pic": 109951166056048441
+                },
+                "dt": 278966,
+                "h": {
+                    "br": 320000,
+                    "fid": 0,
+                    "size": 11161005,
+                    "vd": -43211.0,
+                    "sr": 48000
+                },
+                "m": {
+                    "br": 192000,
+                    "fid": 0,
+                    "size": 6696621,
+                    "vd": -40600.0,
+                    "sr": 48000
+                },
+                "l": {
+                    "br": 128000,
+                    "fid": 0,
+                    "size": 4464429,
+                    "vd": -38936.0,
+                    "sr": 48000
+                },
+                "sq": {
+                    "br": 917812,
+                    "fid": 0,
+                    "size": 32004828,
+                    "vd": -43227.0,
+                    "sr": 48000
+                },
+                "hr": {
+                    "br": 1685284,
+                    "fid": 0,
+                    "size": 58767157,
+                    "vd": -43213.0,
+                    "sr": 48000
+                },
+                "a": null,
+                "cd": "01",
+                "no": 8,
+                "rtUrl": null,
+                "ftype": 0,
+                "rtUrls": [],
+                "djId": 0,
+                "copyright": 0,
+                "s_id": 0,
+                "mark": 17716748288,
+                "originCoverType": 2,
+                "originSongSimpleData": null,
+                "tagPicList": null,
+                "resourceState": true,
+                "version": 10,
+                "songJumpInfo": null,
+                "entertainmentTags": null,
+                "single": 0,
+                "noCopyrightRcmd": null,
+                "rtype": 0,
+                "rurl": null,
+                "mst": 9,
+                "cp": 2709472,
+                "mv": 0,
+                "publishTime": 1622736000000,
+                "privilege": {
+                    "id": 1850263924,
+                    "fee": 8,
+                    "payed": 0,
+                    "st": 0,
+                    "pl": 320000,
+                    "dl": 0,
+                    "sp": 7,
+                    "cp": 1,
+                    "subp": 1,
+                    "cs": false,
+                    "maxbr": 999000,
+                    "fl": 320000,
+                    "toast": false,
+                    "flag": 4,
+                    "preSell": false,
+                    "playMaxbr": 999000,
+                    "downloadMaxbr": 999000,
+                    "maxBrLevel": "hires",
+                    "playMaxBrLevel": "hires",
+                    "downloadMaxBrLevel": "hires",
+                    "plLevel": "exhigh",
+                    "dlLevel": "none",
+                    "flLevel": "exhigh",
+                    "rscl": null,
+                    "freeTrialPrivilege": {
+                        "resConsumable": false,
+                        "userConsumable": false,
+                        "listenType": 0,
+                        "cannotListenReason": 1,
+                        "playReason": null,
+                        "freeLimitTagType": null
+                    },
+                    "rightSource": 0,
+                    "chargeInfoList": [
+                        {
+                            "rate": 128000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 192000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 320000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 1999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        }
+                    ],
+                    "code": 0,
+                    "message": null,
+                    "plLevels": null,
+                    "dlLevels": null,
+                    "ignoreCache": null,
+                    "bd": null
+                }
+            },
+            {
+                "name": "他不懂（女声版）",
+                "id": 1904624698,
+                "pst": 0,
+                "t": 0,
+                "ar": [
+                    {
+                        "id": 48203925,
+                        "name": "挽君",
+                        "tns": [],
+                        "alias": []
+                    }
+                ],
+                "alia": [],
+                "pop": 75.0,
+                "st": 0,
+                "rt": "",
+                "fee": 0,
+                "v": 42,
+                "crbt": null,
+                "cf": "",
+                "al": {
+                    "id": 137688131,
+                    "name": "他不懂（女声版）",
+                    "picUrl": "http://p2.music.126.net/YNfiX141b0I7JA08yPN1cw==/109951166745211998.jpg",
+                    "tns": [],
+                    "pic_str": "109951166745211998",
+                    "pic": 109951166745211998
+                },
+                "dt": 233762,
+                "h": {
+                    "br": 320000,
+                    "fid": 0,
+                    "size": 9353325,
+                    "vd": -37377.0,
+                    "sr": 48000
+                },
+                "m": {
+                    "br": 192000,
+                    "fid": 0,
+                    "size": 5612013,
+                    "vd": -34733.0,
+                    "sr": 48000
+                },
+                "l": {
+                    "br": 128000,
+                    "fid": 0,
+                    "size": 3741357,
+                    "vd": -32941.0,
+                    "sr": 48000
+                },
+                "sq": {
+                    "br": 759036,
+                    "fid": 0,
+                    "size": 22179318,
+                    "vd": -38110.0,
+                    "sr": 48000
+                },
+                "hr": {
+                    "br": 1527937,
+                    "fid": 0,
+                    "size": 44646891,
+                    "vd": -37374.0,
+                    "sr": 48000
+                },
+                "a": null,
+                "cd": "01",
+                "no": 1,
+                "rtUrl": null,
+                "ftype": 0,
+                "rtUrls": [],
+                "djId": 0,
+                "copyright": 0,
+                "s_id": 0,
+                "mark": 536871040,
+                "originCoverType": 2,
+                "originSongSimpleData": {
+                    "songId": 28059417,
+                    "name": "他不懂",
+                    "artists": [
+                        {
+                            "id": 6472,
+                            "name": "张杰"
+                        }
+                    ],
+                    "albumMeta": {
+                        "id": 2643348,
+                        "name": "爱，不解释"
+                    }
+                },
+                "tagPicList": null,
+                "resourceState": true,
+                "version": 8,
+                "songJumpInfo": null,
+                "entertainmentTags": null,
+                "single": 0,
+                "noCopyrightRcmd": null,
+                "rtype": 0,
+                "rurl": null,
+                "mst": 9,
+                "cp": 0,
+                "mv": 0,
+                "publishTime": 0,
+                "privilege": {
+                    "id": 1904624698,
+                    "fee": 0,
+                    "payed": 0,
+                    "st": 0,
+                    "pl": 320000,
+                    "dl": 999000,
+                    "sp": 7,
+                    "cp": 1,
+                    "subp": 1,
+                    "cs": false,
+                    "maxbr": 999000,
+                    "fl": 320000,
+                    "toast": false,
+                    "flag": 257,
+                    "preSell": false,
+                    "playMaxbr": 999000,
+                    "downloadMaxbr": 999000,
+                    "maxBrLevel": "hires",
+                    "playMaxBrLevel": "hires",
+                    "downloadMaxBrLevel": "hires",
+                    "plLevel": "exhigh",
+                    "dlLevel": "hires",
+                    "flLevel": "exhigh",
+                    "rscl": null,
+                    "freeTrialPrivilege": {
+                        "resConsumable": false,
+                        "userConsumable": false,
+                        "listenType": 0,
+                        "cannotListenReason": 1,
+                        "playReason": null,
+                        "freeLimitTagType": null
+                    },
+                    "rightSource": 0,
+                    "chargeInfoList": [
+                        {
+                            "rate": 128000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 192000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 320000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 1999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        }
+                    ],
+                    "code": 0,
+                    "message": null,
+                    "plLevels": null,
+                    "dlLevels": null,
+                    "ignoreCache": null,
+                    "bd": null
+                }
+            },
+            {
+                "name": "他不懂 (不值得你再为他伤心)",
+                "id": 2738479877,
+                "pst": 0,
+                "t": 0,
+                "ar": [
+                    {
+                        "id": 34433129,
+                        "name": "我是土豆",
+                        "tns": [],
+                        "alias": []
+                    }
+                ],
+                "alia": [],
+                "pop": 20.0,
+                "st": 0,
+                "rt": "",
+                "fee": 0,
+                "v": 36,
+                "crbt": null,
+                "cf": "",
+                "al": {
+                    "id": 282357644,
+                    "name": "他不懂 (不值得你再为他伤心)",
+                    "picUrl": "http://p2.music.126.net/lrtG8M0imRoTR-Uv-a0u9g==/109951171907082604.jpg",
+                    "tns": [],
+                    "pic_str": "109951171907082604",
+                    "pic": 109951171907082604
+                },
+                "dt": 206582,
+                "h": {
+                    "br": 320000,
+                    "fid": 0,
+                    "size": 8266231,
+                    "vd": -29588.0,
+                    "sr": 44100
+                },
+                "m": {
+                    "br": 192000,
+                    "fid": 0,
+                    "size": 4959756,
+                    "vd": -26955.0,
+                    "sr": 44100
+                },
+                "l": {
+                    "br": 128000,
+                    "fid": 0,
+                    "size": 3306519,
+                    "vd": -25203.0,
+                    "sr": 44100
+                },
+                "sq": {
+                    "br": 1502693,
+                    "fid": 0,
+                    "size": 38807671,
+                    "vd": -29588.0,
+                    "sr": 44100
+                },
+                "hr": null,
+                "a": null,
+                "cd": "01",
+                "no": 1,
+                "rtUrl": null,
+                "ftype": 0,
+                "rtUrls": [],
+                "djId": 0,
+                "copyright": 0,
+                "s_id": 0,
+                "mark": 128,
+                "originCoverType": 2,
+                "originSongSimpleData": {
+                    "songId": 28059417,
+                    "name": "他不懂",
+                    "artists": [
+                        {
+                            "id": 6472,
+                            "name": "张杰"
+                        }
+                    ],
+                    "albumMeta": {
+                        "id": 2643348,
+                        "name": "爱，不解释"
+                    }
+                },
+                "tagPicList": null,
+                "resourceState": true,
+                "version": 2,
+                "songJumpInfo": null,
+                "entertainmentTags": null,
+                "single": 0,
+                "noCopyrightRcmd": null,
+                "rtype": 0,
+                "rurl": null,
+                "mst": 9,
+                "cp": 0,
+                "mv": 0,
+                "publishTime": 1726848000000,
+                "privilege": {
+                    "id": 2738479877,
+                    "fee": 0,
+                    "payed": 0,
+                    "st": 0,
+                    "pl": 320000,
+                    "dl": 999000,
+                    "sp": 7,
+                    "cp": 1,
+                    "subp": 1,
+                    "cs": false,
+                    "maxbr": 999000,
+                    "fl": 320000,
+                    "toast": false,
+                    "flag": 129,
+                    "preSell": false,
+                    "playMaxbr": 999000,
+                    "downloadMaxbr": 999000,
+                    "maxBrLevel": "lossless",
+                    "playMaxBrLevel": "lossless",
+                    "downloadMaxBrLevel": "lossless",
+                    "plLevel": "exhigh",
+                    "dlLevel": "lossless",
+                    "flLevel": "exhigh",
+                    "rscl": null,
+                    "freeTrialPrivilege": {
+                        "resConsumable": false,
+                        "userConsumable": false,
+                        "listenType": 0,
+                        "cannotListenReason": 1,
+                        "playReason": null,
+                        "freeLimitTagType": null
+                    },
+                    "rightSource": 0,
+                    "chargeInfoList": [
+                        {
+                            "rate": 128000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 192000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 320000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        }
+                    ],
+                    "code": 0,
+                    "message": null,
+                    "plLevels": null,
+                    "dlLevels": null,
+                    "ignoreCache": null,
+                    "bd": null
+                }
+            },
+            {
+                "name": "他不懂 (Live版)",
+                "id": 2149816865,
+                "pst": 0,
+                "t": 0,
+                "ar": [
+                    {
+                        "id": 6066,
+                        "name": "杨宗纬",
+                        "tns": [],
+                        "alias": [
+                            "Aska Yang"
+                        ],
+                        "alia": [
+                            "Aska Yang"
+                        ]
+                    },
+                    {
+                        "id": 1024308,
+                        "name": "张碧晨",
+                        "tns": [],
+                        "alias": [
+                            "Diamond Zhang"
+                        ],
+                        "alia": [
+                            "Diamond Zhang"
+                        ]
+                    }
+                ],
+                "alia": [],
+                "pop": 100.0,
+                "st": 0,
+                "rt": "",
+                "fee": 1,
+                "v": 37,
+                "crbt": null,
+                "cf": "",
+                "al": {
+                    "id": 193692363,
+                    "name": "天赐的声音第五季 第1期",
+                    "picUrl": "http://p2.music.126.net/9AP_AJLaACliGYpclAlz2g==/109951169534405328.jpg",
+                    "tns": [],
+                    "pic_str": "109951169534405328",
+                    "pic": 109951169534405328
+                },
+                "dt": 260458,
+                "h": {
+                    "br": 320000,
+                    "fid": 0,
+                    "size": 10420845,
+                    "vd": -32669.0,
+                    "sr": 48000
+                },
+                "m": {
+                    "br": 192000,
+                    "fid": 0,
+                    "size": 6252525,
+                    "vd": -30029.0,
+                    "sr": 48000
+                },
+                "l": {
+                    "br": 128000,
+                    "fid": 0,
+                    "size": 4168365,
+                    "vd": -28260.0,
+                    "sr": 48000
+                },
+                "sq": {
+                    "br": 799929,
+                    "fid": 0,
+                    "size": 26043569,
+                    "vd": -32624.0,
+                    "sr": 48000
+                },
+                "hr": {
+                    "br": 1568888,
+                    "fid": 0,
+                    "size": 51078810,
+                    "vd": -32613.0,
+                    "sr": 48000
+                },
+                "a": null,
+                "cd": "01",
+                "no": 5,
+                "rtUrl": null,
+                "ftype": 0,
+                "rtUrls": [],
+                "djId": 0,
+                "copyright": 0,
+                "s_id": 0,
+                "mark": 17716748288,
+                "originCoverType": 2,
+                "originSongSimpleData": {
+                    "songId": 28059417,
+                    "name": "他不懂",
+                    "artists": [
+                        {
+                            "id": 6472,
+                            "name": "张杰"
+                        }
+                    ],
+                    "albumMeta": {
+                        "id": 2643348,
+                        "name": "爱，不解释"
+                    }
+                },
+                "tagPicList": null,
+                "resourceState": true,
+                "version": 3,
+                "songJumpInfo": null,
+                "entertainmentTags": null,
+                "single": 0,
+                "noCopyrightRcmd": null,
+                "rtype": 0,
+                "rurl": null,
+                "mst": 9,
+                "cp": 2712562,
+                "mv": 0,
+                "publishTime": 0,
+                "privilege": {
+                    "id": 2149816865,
+                    "fee": 1,
+                    "payed": 0,
+                    "st": 0,
+                    "pl": 0,
+                    "dl": 0,
+                    "sp": 0,
+                    "cp": 0,
+                    "subp": 1,
+                    "cs": false,
+                    "maxbr": 999000,
+                    "fl": 0,
+                    "toast": false,
+                    "flag": 4,
+                    "preSell": false,
+                    "playMaxbr": 999000,
+                    "downloadMaxbr": 999000,
+                    "maxBrLevel": "hires",
+                    "playMaxBrLevel": "hires",
+                    "downloadMaxBrLevel": "hires",
+                    "plLevel": "none",
+                    "dlLevel": "none",
+                    "flLevel": "none",
+                    "rscl": null,
+                    "freeTrialPrivilege": {
+                        "resConsumable": true,
+                        "userConsumable": false,
+                        "listenType": 0,
+                        "cannotListenReason": 0,
+                        "playReason": null,
+                        "freeLimitTagType": null
+                    },
+                    "rightSource": 0,
+                    "chargeInfoList": [
+                        {
+                            "rate": 128000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 192000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 320000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 1999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        }
+                    ],
+                    "code": 0,
+                    "message": null,
+                    "plLevels": null,
+                    "dlLevels": null,
+                    "ignoreCache": null,
+                    "bd": null
+                }
+            },
+            {
+                "name": "他不懂（她留给你是背影(EMO版)",
+                "id": 2676618877,
+                "pst": 0,
+                "t": 0,
+                "ar": [
+                    {
+                        "id": 97232720,
+                        "name": "GR7",
+                        "tns": [],
+                        "alias": []
+                    }
+                ],
+                "alia": [],
+                "pop": 90.0,
+                "st": 0,
+                "rt": "",
+                "fee": 8,
+                "v": 38,
+                "crbt": null,
+                "cf": "",
+                "al": {
+                    "id": 263348546,
+                    "name": "她留给你是背影（EMO版）",
+                    "picUrl": "http://p2.music.126.net/CVD9UTXPqTwSA4ogdlaPlg==/109951170498001404.jpg",
+                    "tns": [],
+                    "pic_str": "109951170498001404",
+                    "pic": 109951170498001404
+                },
+                "dt": 195500,
+                "h": {
+                    "br": 320000,
+                    "fid": 0,
+                    "size": 7822125,
+                    "vd": -37143.0,
+                    "sr": 48000
+                },
+                "m": {
+                    "br": 192000,
+                    "fid": 0,
+                    "size": 4693293,
+                    "vd": -34500.0,
+                    "sr": 48000
+                },
+                "l": {
+                    "br": 128000,
+                    "fid": 0,
+                    "size": 3128877,
+                    "vd": -32699.0,
+                    "sr": 48000
+                },
+                "sq": {
+                    "br": 442764,
+                    "fid": 0,
+                    "size": 10823663,
+                    "vd": -37143.0,
+                    "sr": 48000
+                },
+                "hr": null,
+                "a": null,
+                "cd": "01",
+                "no": 1,
+                "rtUrl": null,
+                "ftype": 0,
+                "rtUrls": [],
+                "djId": 0,
+                "copyright": 1,
+                "s_id": 0,
+                "mark": 8192,
+                "originCoverType": 2,
+                "originSongSimpleData": {
+                    "songId": 28059417,
+                    "name": "他不懂",
+                    "artists": [
+                        {
+                            "id": 6472,
+                            "name": "张杰"
+                        }
+                    ],
+                    "albumMeta": {
+                        "id": 2643348,
+                        "name": "爱，不解释"
+                    }
+                },
+                "tagPicList": null,
+                "resourceState": true,
+                "version": 4,
+                "songJumpInfo": null,
+                "entertainmentTags": null,
+                "single": 0,
+                "noCopyrightRcmd": null,
+                "rtype": 0,
+                "rurl": null,
+                "mst": 9,
+                "cp": 1416503,
+                "mv": 0,
+                "publishTime": 1739894400000,
+                "privilege": {
+                    "id": 2676618877,
+                    "fee": 8,
+                    "payed": 0,
+                    "st": 0,
+                    "pl": 320000,
+                    "dl": 0,
+                    "sp": 7,
+                    "cp": 1,
+                    "subp": 1,
+                    "cs": false,
+                    "maxbr": 999000,
+                    "fl": 320000,
+                    "toast": false,
+                    "flag": 260,
+                    "preSell": false,
+                    "playMaxbr": 999000,
+                    "downloadMaxbr": 999000,
+                    "maxBrLevel": "lossless",
+                    "playMaxBrLevel": "lossless",
+                    "downloadMaxBrLevel": "lossless",
+                    "plLevel": "exhigh",
+                    "dlLevel": "none",
+                    "flLevel": "exhigh",
+                    "rscl": null,
+                    "freeTrialPrivilege": {
+                        "resConsumable": false,
+                        "userConsumable": false,
+                        "listenType": 0,
+                        "cannotListenReason": 1,
+                        "playReason": null,
+                        "freeLimitTagType": null
+                    },
+                    "rightSource": 0,
+                    "chargeInfoList": [
+                        {
+                            "rate": 128000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 192000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 320000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        }
+                    ],
+                    "code": 0,
+                    "message": null,
+                    "plLevels": null,
+                    "dlLevels": null,
+                    "ignoreCache": null,
+                    "bd": null
+                }
+            },
+            {
+                "name": "他不懂（DJ0.99x）",
+                "id": 2682082315,
+                "pst": 0,
+                "t": 0,
+                "ar": [
+                    {
+                        "id": 56327902,
+                        "name": "奇衡三",
+                        "tns": [],
+                        "alias": []
+                    }
+                ],
+                "alia": [],
+                "pop": 10.0,
+                "st": 0,
+                "rt": "",
+                "fee": 8,
+                "v": 36,
+                "crbt": null,
+                "cf": "",
+                "al": {
+                    "id": 265065204,
+                    "name": "他不懂（她留给你是背影）",
+                    "picUrl": "http://p2.music.126.net/7AVIFZJ1YVsauO0jHHCG3w==/109951170566586287.jpg",
+                    "tns": [],
+                    "pic_str": "109951170566586287",
+                    "pic": 109951170566586287
+                },
+                "dt": 256441,
+                "h": {
+                    "br": 320000,
+                    "fid": 0,
+                    "size": 10259897,
+                    "vd": 3409.0,
+                    "sr": 44100
+                },
+                "m": {
+                    "br": 192000,
+                    "fid": 0,
+                    "size": 6155955,
+                    "vd": 6000.0,
+                    "sr": 44100
+                },
+                "l": {
+                    "br": 128000,
+                    "fid": 0,
+                    "size": 4103985,
+                    "vd": 7019.0,
+                    "sr": 44100
+                },
+                "sq": {
+                    "br": 923424,
+                    "fid": 0,
+                    "size": 29605218,
+                    "vd": 3423.0,
+                    "sr": 44100
+                },
+                "hr": null,
+                "a": null,
+                "cd": "01",
+                "no": 2,
+                "rtUrl": null,
+                "ftype": 0,
+                "rtUrls": [],
+                "djId": 0,
+                "copyright": 1,
+                "s_id": 0,
+                "mark": 8192,
+                "originCoverType": 2,
+                "originSongSimpleData": null,
+                "tagPicList": null,
+                "resourceState": true,
+                "version": 2,
+                "songJumpInfo": null,
+                "entertainmentTags": null,
+                "single": 0,
+                "noCopyrightRcmd": null,
+                "rtype": 0,
+                "rurl": null,
+                "mst": 9,
+                "cp": 1416503,
+                "mv": 0,
+                "publishTime": 1741276800000,
+                "privilege": {
+                    "id": 2682082315,
+                    "fee": 8,
+                    "payed": 0,
+                    "st": 0,
+                    "pl": 320000,
+                    "dl": 0,
+                    "sp": 7,
+                    "cp": 1,
+                    "subp": 1,
+                    "cs": false,
+                    "maxbr": 999000,
+                    "fl": 320000,
+                    "toast": false,
+                    "flag": 260,
+                    "preSell": false,
+                    "playMaxbr": 999000,
+                    "downloadMaxbr": 999000,
+                    "maxBrLevel": "lossless",
+                    "playMaxBrLevel": "lossless",
+                    "downloadMaxBrLevel": "lossless",
+                    "plLevel": "exhigh",
+                    "dlLevel": "none",
+                    "flLevel": "exhigh",
+                    "rscl": null,
+                    "freeTrialPrivilege": {
+                        "resConsumable": false,
+                        "userConsumable": false,
+                        "listenType": 0,
+                        "cannotListenReason": 1,
+                        "playReason": null,
+                        "freeLimitTagType": null
+                    },
+                    "rightSource": 0,
+                    "chargeInfoList": [
+                        {
+                            "rate": 128000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 192000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 320000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        }
+                    ],
+                    "code": 0,
+                    "message": null,
+                    "plLevels": null,
+                    "dlLevels": null,
+                    "ignoreCache": null,
+                    "bd": null
+                }
+            },
+            {
+                "name": "他不懂 (DJ降调)",
+                "id": 2730194703,
+                "pst": 0,
+                "t": 0,
+                "ar": [
+                    {
+                        "id": 96452692,
+                        "name": "DJ阿鱼",
+                        "tns": [],
+                        "alias": []
+                    }
+                ],
+                "alia": [],
+                "pop": 15.0,
+                "st": 0,
+                "rt": "",
+                "fee": 0,
+                "v": 40,
+                "crbt": null,
+                "cf": "",
+                "al": {
+                    "id": 279648660,
+                    "name": "他不懂 (DJ降调)",
+                    "picUrl": "http://p2.music.126.net/ggW-cVlc58qaFIeDqOEfIg==/109951171524981695.jpg",
+                    "tns": [],
+                    "pic_str": "109951171524981695",
+                    "pic": 109951171524981695
+                },
+                "dt": 240011,
+                "h": {
+                    "br": 320002,
+                    "fid": 0,
+                    "size": 9602925,
+                    "vd": 7981.0,
+                    "sr": 48000
+                },
+                "m": {
+                    "br": 192002,
+                    "fid": 0,
+                    "size": 5761773,
+                    "vd": 10552.0,
+                    "sr": 48000
+                },
+                "l": {
+                    "br": 128002,
+                    "fid": 0,
+                    "size": 3841197,
+                    "vd": 12154.0,
+                    "sr": 48000
+                },
+                "sq": {
+                    "br": 919460,
+                    "fid": 0,
+                    "size": 27589595,
+                    "vd": 7991.0,
+                    "sr": 48000
+                },
+                "hr": {
+                    "br": 1689633,
+                    "fid": 0,
+                    "size": 50695897,
+                    "vd": 7991.0,
+                    "sr": 48000
+                },
+                "a": null,
+                "cd": "01",
+                "no": 1,
+                "rtUrl": null,
+                "ftype": 0,
+                "rtUrls": [],
+                "djId": 0,
+                "copyright": 0,
+                "s_id": 0,
+                "mark": 536871040,
+                "originCoverType": 3,
+                "originSongSimpleData": null,
+                "tagPicList": null,
+                "resourceState": true,
+                "version": 6,
+                "songJumpInfo": null,
+                "entertainmentTags": null,
+                "single": 0,
+                "noCopyrightRcmd": null,
+                "rtype": 0,
+                "rurl": null,
+                "mst": 9,
+                "cp": 0,
+                "mv": 0,
+                "publishTime": 1742918400000,
+                "privilege": {
+                    "id": 2730194703,
+                    "fee": 0,
+                    "payed": 0,
+                    "st": 0,
+                    "pl": 320000,
+                    "dl": 999000,
+                    "sp": 7,
+                    "cp": 1,
+                    "subp": 1,
+                    "cs": false,
+                    "maxbr": 999000,
+                    "fl": 320000,
+                    "toast": false,
+                    "flag": 129,
+                    "preSell": false,
+                    "playMaxbr": 999000,
+                    "downloadMaxbr": 999000,
+                    "maxBrLevel": "hires",
+                    "playMaxBrLevel": "hires",
+                    "downloadMaxBrLevel": "hires",
+                    "plLevel": "exhigh",
+                    "dlLevel": "hires",
+                    "flLevel": "exhigh",
+                    "rscl": null,
+                    "freeTrialPrivilege": {
+                        "resConsumable": false,
+                        "userConsumable": false,
+                        "listenType": 0,
+                        "cannotListenReason": 1,
+                        "playReason": null,
+                        "freeLimitTagType": null
+                    },
+                    "rightSource": 0,
+                    "chargeInfoList": [
+                        {
+                            "rate": 128000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 192000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 320000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 1999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        }
+                    ],
+                    "code": 0,
+                    "message": null,
+                    "plLevels": null,
+                    "dlLevels": null,
+                    "ignoreCache": null,
+                    "bd": null
+                }
+            },
+            {
+                "name": "他不懂",
+                "id": 2682082304,
+                "pst": 0,
+                "t": 0,
+                "ar": [
+                    {
+                        "id": 33820047,
+                        "name": "白允y",
+                        "tns": [],
+                        "alias": [
+                            "允哥"
+                        ],
+                        "alia": [
+                            "允哥"
+                        ]
+                    }
+                ],
+                "alia": [],
+                "pop": 60.0,
+                "st": 0,
+                "rt": "",
+                "fee": 8,
+                "v": 37,
+                "crbt": null,
+                "cf": "",
+                "al": {
+                    "id": 265064329,
+                    "name": "他不懂",
+                    "picUrl": "http://p2.music.126.net/Hz005qP6LKRTonkoN0rZ7A==/109951170566583839.jpg",
+                    "tns": [],
+                    "pic_str": "109951170566583839",
+                    "pic": 109951170566583839
+                },
+                "dt": 233040,
+                "h": {
+                    "br": 320002,
+                    "fid": 0,
+                    "size": 9324525,
+                    "vd": -35149.0,
+                    "sr": 48000
+                },
+                "m": {
+                    "br": 192002,
+                    "fid": 0,
+                    "size": 5594733,
+                    "vd": -32515.0,
+                    "sr": 48000
+                },
+                "l": {
+                    "br": 128002,
+                    "fid": 0,
+                    "size": 3729837,
+                    "vd": -30777.0,
+                    "sr": 48000
+                },
+                "sq": {
+                    "br": 799263,
+                    "fid": 0,
+                    "size": 23286928,
+                    "vd": -35147.0,
+                    "sr": 48000
+                },
+                "hr": {
+                    "br": 1555396,
+                    "fid": 0,
+                    "size": 45313145,
+                    "vd": -35147.0,
+                    "sr": 48000
+                },
+                "a": null,
+                "cd": "01",
+                "no": 1,
+                "rtUrl": null,
+                "ftype": 0,
+                "rtUrls": [],
+                "djId": 0,
+                "copyright": 1,
+                "s_id": 0,
+                "mark": 17716748288,
+                "originCoverType": 2,
+                "originSongSimpleData": {
+                    "songId": 28059417,
+                    "name": "他不懂",
+                    "artists": [
+                        {
+                            "id": 6472,
+                            "name": "张杰"
+                        }
+                    ],
+                    "albumMeta": {
+                        "id": 2643348,
+                        "name": "爱，不解释"
+                    }
+                },
+                "tagPicList": null,
+                "resourceState": true,
+                "version": 3,
+                "songJumpInfo": null,
+                "entertainmentTags": null,
+                "single": 0,
+                "noCopyrightRcmd": null,
+                "rtype": 0,
+                "rurl": null,
+                "mst": 9,
+                "cp": 1416503,
+                "mv": 0,
+                "publishTime": 1741276800000,
+                "privilege": {
+                    "id": 2682082304,
+                    "fee": 8,
+                    "payed": 0,
+                    "st": 0,
+                    "pl": 320000,
+                    "dl": 0,
+                    "sp": 7,
+                    "cp": 1,
+                    "subp": 1,
+                    "cs": false,
+                    "maxbr": 999000,
+                    "fl": 320000,
+                    "toast": false,
+                    "flag": 260,
+                    "preSell": false,
+                    "playMaxbr": 999000,
+                    "downloadMaxbr": 999000,
+                    "maxBrLevel": "hires",
+                    "playMaxBrLevel": "hires",
+                    "downloadMaxBrLevel": "hires",
+                    "plLevel": "exhigh",
+                    "dlLevel": "none",
+                    "flLevel": "exhigh",
+                    "rscl": null,
+                    "freeTrialPrivilege": {
+                        "resConsumable": false,
+                        "userConsumable": false,
+                        "listenType": 0,
+                        "cannotListenReason": 1,
+                        "playReason": null,
+                        "freeLimitTagType": null
+                    },
+                    "rightSource": 0,
+                    "chargeInfoList": [
+                        {
+                            "rate": 128000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 192000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 320000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 1999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        }
+                    ],
+                    "code": 0,
+                    "message": null,
+                    "plLevels": null,
+                    "dlLevels": null,
+                    "ignoreCache": null,
+                    "bd": null
+                }
+            },
+            {
+                "name": "他不懂1.1x（她留给你是背影）",
+                "id": 2677438126,
+                "pst": 0,
+                "t": 0,
+                "ar": [
+                    {
+                        "id": 47058186,
+                        "name": "小瑞",
+                        "tns": [],
+                        "alias": []
+                    },
+                    {
+                        "id": 95686818,
+                        "name": "泡泡",
+                        "tns": [],
+                        "alias": []
+                    }
+                ],
+                "alia": [],
+                "pop": 45.0,
+                "st": 0,
+                "rt": "",
+                "fee": 8,
+                "v": 37,
+                "crbt": null,
+                "cf": "",
+                "al": {
+                    "id": 263627119,
+                    "name": "他不懂（她留给你是背影）",
+                    "picUrl": "http://p2.music.126.net/0o5WLt1a70L-2vtzLGNvtQ==/109951170504941995.jpg",
+                    "tns": [],
+                    "pic_str": "109951170504941995",
+                    "pic": 109951170504941995
+                },
+                "dt": 177991,
+                "h": {
+                    "br": 320000,
+                    "fid": 0,
+                    "size": 7122068,
+                    "vd": -36758.0,
+                    "sr": 44100
+                },
+                "m": {
+                    "br": 192000,
+                    "fid": 0,
+                    "size": 4273258,
+                    "vd": -34166.0,
+                    "sr": 44100
+                },
+                "l": {
+                    "br": 128000,
+                    "fid": 0,
+                    "size": 2848853,
+                    "vd": -32511.0,
+                    "sr": 44100
+                },
+                "sq": {
+                    "br": 705031,
+                    "fid": 0,
+                    "size": 15689451,
+                    "vd": -36756.0,
+                    "sr": 44100
+                },
+                "hr": null,
+                "a": null,
+                "cd": "01",
+                "no": 1,
+                "rtUrl": null,
+                "ftype": 0,
+                "rtUrls": [],
+                "djId": 0,
+                "copyright": 1,
+                "s_id": 0,
+                "mark": 8192,
+                "originCoverType": 2,
+                "originSongSimpleData": {
+                    "songId": 28059417,
+                    "name": "他不懂",
+                    "artists": [
+                        {
+                            "id": 6472,
+                            "name": "张杰"
+                        }
+                    ],
+                    "albumMeta": {
+                        "id": 2643348,
+                        "name": "爱，不解释"
+                    }
+                },
+                "tagPicList": null,
+                "resourceState": true,
+                "version": 3,
+                "songJumpInfo": null,
+                "entertainmentTags": null,
+                "single": 0,
+                "noCopyrightRcmd": null,
+                "rtype": 0,
+                "rurl": null,
+                "mst": 9,
+                "cp": 1416503,
+                "mv": 0,
+                "publishTime": 1740326400000,
+                "privilege": {
+                    "id": 2677438126,
+                    "fee": 8,
+                    "payed": 0,
+                    "st": 0,
+                    "pl": 320000,
+                    "dl": 0,
+                    "sp": 7,
+                    "cp": 1,
+                    "subp": 1,
+                    "cs": false,
+                    "maxbr": 999000,
+                    "fl": 320000,
+                    "toast": false,
+                    "flag": 260,
+                    "preSell": false,
+                    "playMaxbr": 999000,
+                    "downloadMaxbr": 999000,
+                    "maxBrLevel": "lossless",
+                    "playMaxBrLevel": "lossless",
+                    "downloadMaxBrLevel": "lossless",
+                    "plLevel": "exhigh",
+                    "dlLevel": "none",
+                    "flLevel": "exhigh",
+                    "rscl": null,
+                    "freeTrialPrivilege": {
+                        "resConsumable": false,
+                        "userConsumable": false,
+                        "listenType": 0,
+                        "cannotListenReason": 1,
+                        "playReason": null,
+                        "freeLimitTagType": null
+                    },
+                    "rightSource": 0,
+                    "chargeInfoList": [
+                        {
+                            "rate": 128000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 192000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 320000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        }
+                    ],
+                    "code": 0,
+                    "message": null,
+                    "plLevels": null,
+                    "dlLevels": null,
+                    "ignoreCache": null,
+                    "bd": null
+                }
+            },
+            {
+                "name": "他不懂（DJ小瑞版）",
+                "id": 2677439054,
+                "pst": 0,
+                "t": 0,
+                "ar": [
+                    {
+                        "id": 47058186,
+                        "name": "小瑞",
+                        "tns": [],
+                        "alias": []
+                    },
+                    {
+                        "id": 95686818,
+                        "name": "泡泡",
+                        "tns": [],
+                        "alias": []
+                    }
+                ],
+                "alia": [],
+                "pop": 65.0,
+                "st": 0,
+                "rt": "",
+                "fee": 8,
+                "v": 37,
+                "crbt": null,
+                "cf": "",
+                "al": {
+                    "id": 263627119,
+                    "name": "他不懂（她留给你是背影）",
+                    "picUrl": "http://p2.music.126.net/0o5WLt1a70L-2vtzLGNvtQ==/109951170504941995.jpg",
+                    "tns": [],
+                    "pic_str": "109951170504941995",
+                    "pic": 109951170504941995
+                },
+                "dt": 195256,
+                "h": {
+                    "br": 320000,
+                    "fid": 0,
+                    "size": 7812746,
+                    "vd": -36205.0,
+                    "sr": 44100
+                },
+                "m": {
+                    "br": 192000,
+                    "fid": 0,
+                    "size": 4687665,
+                    "vd": -33630.0,
+                    "sr": 44100
+                },
+                "l": {
+                    "br": 128000,
+                    "fid": 0,
+                    "size": 3125124,
+                    "vd": -32201.0,
+                    "sr": 44100
+                },
+                "sq": {
+                    "br": 889300,
+                    "fid": 0,
+                    "size": 21708829,
+                    "vd": -36200.0,
+                    "sr": 44100
+                },
+                "hr": null,
+                "a": null,
+                "cd": "01",
+                "no": 3,
+                "rtUrl": null,
+                "ftype": 0,
+                "rtUrls": [],
+                "djId": 0,
+                "copyright": 1,
+                "s_id": 0,
+                "mark": 8192,
+                "originCoverType": 2,
+                "originSongSimpleData": {
+                    "songId": 28059417,
+                    "name": "他不懂",
+                    "artists": [
+                        {
+                            "id": 6472,
+                            "name": "张杰"
+                        }
+                    ],
+                    "albumMeta": {
+                        "id": 2643348,
+                        "name": "爱，不解释"
+                    }
+                },
+                "tagPicList": null,
+                "resourceState": true,
+                "version": 3,
+                "songJumpInfo": null,
+                "entertainmentTags": null,
+                "single": 0,
+                "noCopyrightRcmd": null,
+                "rtype": 0,
+                "rurl": null,
+                "mst": 9,
+                "cp": 1416503,
+                "mv": 0,
+                "publishTime": 1740326400000,
+                "privilege": {
+                    "id": 2677439054,
+                    "fee": 8,
+                    "payed": 0,
+                    "st": 0,
+                    "pl": 320000,
+                    "dl": 0,
+                    "sp": 7,
+                    "cp": 1,
+                    "subp": 1,
+                    "cs": false,
+                    "maxbr": 999000,
+                    "fl": 320000,
+                    "toast": false,
+                    "flag": 260,
+                    "preSell": false,
+                    "playMaxbr": 999000,
+                    "downloadMaxbr": 999000,
+                    "maxBrLevel": "lossless",
+                    "playMaxBrLevel": "lossless",
+                    "downloadMaxBrLevel": "lossless",
+                    "plLevel": "exhigh",
+                    "dlLevel": "none",
+                    "flLevel": "exhigh",
+                    "rscl": null,
+                    "freeTrialPrivilege": {
+                        "resConsumable": false,
+                        "userConsumable": false,
+                        "listenType": 0,
+                        "cannotListenReason": 1,
+                        "playReason": null,
+                        "freeLimitTagType": null
+                    },
+                    "rightSource": 0,
+                    "chargeInfoList": [
+                        {
+                            "rate": 128000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 192000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 320000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        }
+                    ],
+                    "code": 0,
+                    "message": null,
+                    "plLevels": null,
+                    "dlLevels": null,
+                    "ignoreCache": null,
+                    "bd": null
+                }
+            },
+            {
+                "name": "他不懂 (深情男声版)",
+                "id": 2100560460,
+                "pst": 0,
+                "t": 0,
+                "ar": [
+                    {
+                        "id": 47606643,
+                        "name": "DJ晚风",
+                        "tns": [],
+                        "alias": [
+                            "晚风"
+                        ],
+                        "alia": [
+                            "晚风"
+                        ]
+                    }
+                ],
+                "alia": [],
+                "pop": 30.0,
+                "st": 0,
+                "rt": "",
+                "fee": 0,
+                "v": 50,
+                "crbt": null,
+                "cf": "",
+                "al": {
+                    "id": 179216948,
+                    "name": "翻唱歌曲合集",
+                    "picUrl": "http://p2.music.126.net/7lu3TA-dIaqC_TpMn8aCXQ==/109951169060732591.jpg",
+                    "tns": [],
+                    "pic_str": "109951169060732591",
+                    "pic": 109951169060732591
+                },
+                "dt": 236199,
+                "h": {
+                    "br": 320000,
+                    "fid": 0,
+                    "size": 9449056,
+                    "vd": -13484.0,
+                    "sr": 44100
+                },
+                "m": {
+                    "br": 192000,
+                    "fid": 0,
+                    "size": 5669451,
+                    "vd": -10848.0,
+                    "sr": 44100
+                },
+                "l": {
+                    "br": 128000,
+                    "fid": 0,
+                    "size": 3779648,
+                    "vd": -9066.0,
+                    "sr": 44100
+                },
+                "sq": null,
+                "hr": null,
+                "a": null,
+                "cd": "01",
+                "no": 1,
+                "rtUrl": null,
+                "ftype": 0,
+                "rtUrls": [],
+                "djId": 0,
+                "copyright": 0,
+                "s_id": 0,
+                "mark": 128,
+                "originCoverType": 2,
+                "originSongSimpleData": null,
+                "tagPicList": null,
+                "resourceState": true,
+                "version": 16,
+                "songJumpInfo": null,
+                "entertainmentTags": null,
+                "single": 0,
+                "noCopyrightRcmd": null,
+                "rtype": 0,
+                "rurl": null,
+                "mst": 9,
+                "cp": 0,
+                "mv": 0,
+                "publishTime": 0,
+                "privilege": {
+                    "id": 2100560460,
+                    "fee": 0,
+                    "payed": 0,
+                    "st": 0,
+                    "pl": 320000,
+                    "dl": 320000,
+                    "sp": 7,
+                    "cp": 1,
+                    "subp": 1,
+                    "cs": false,
+                    "maxbr": 320000,
+                    "fl": 320000,
+                    "toast": false,
+                    "flag": 257,
+                    "preSell": false,
+                    "playMaxbr": 320000,
+                    "downloadMaxbr": 320000,
+                    "maxBrLevel": "exhigh",
+                    "playMaxBrLevel": "exhigh",
+                    "downloadMaxBrLevel": "exhigh",
+                    "plLevel": "exhigh",
+                    "dlLevel": "exhigh",
+                    "flLevel": "exhigh",
+                    "rscl": null,
+                    "freeTrialPrivilege": {
+                        "resConsumable": false,
+                        "userConsumable": false,
+                        "listenType": 0,
+                        "cannotListenReason": 1,
+                        "playReason": null,
+                        "freeLimitTagType": null
+                    },
+                    "rightSource": 0,
+                    "chargeInfoList": [
+                        {
+                            "rate": 128000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 192000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 320000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        }
+                    ],
+                    "code": 0,
+                    "message": null,
+                    "plLevels": null,
+                    "dlLevels": null,
+                    "ignoreCache": null,
+                    "bd": null
+                }
+            },
+            {
+                "name": "他不懂（她留给你的背影1.2x）",
+                "id": 2676618884,
+                "pst": 0,
+                "t": 0,
+                "ar": [
+                    {
+                        "id": 97232686,
+                        "name": "C94",
+                        "tns": [],
+                        "alias": []
+                    }
+                ],
+                "alia": [],
+                "pop": 25.0,
+                "st": 0,
+                "rt": "",
+                "fee": 8,
+                "v": 37,
+                "crbt": null,
+                "cf": "",
+                "al": {
+                    "id": 263349139,
+                    "name": "她留给你的背影",
+                    "picUrl": "http://p2.music.126.net/lB9_v_F-WZq8RPZJt2Aoxg==/109951170498012608.jpg",
+                    "tns": [],
+                    "pic_str": "109951170498012608",
+                    "pic": 109951170498012608
+                },
+                "dt": 113754,
+                "h": {
+                    "br": 320000,
+                    "fid": 0,
+                    "size": 4552664,
+                    "vd": -56754.0,
+                    "sr": 44100
+                },
+                "m": {
+                    "br": 192000,
+                    "fid": 0,
+                    "size": 2731616,
+                    "vd": -54112.0,
+                    "sr": 44100
+                },
+                "l": {
+                    "br": 128000,
+                    "fid": 0,
+                    "size": 1821092,
+                    "vd": -52279.0,
+                    "sr": 44100
+                },
+                "sq": {
+                    "br": 593385,
+                    "fid": 0,
+                    "size": 8439666,
+                    "vd": -56756.0,
+                    "sr": 44100
+                },
+                "hr": null,
+                "a": null,
+                "cd": "01",
+                "no": 3,
+                "rtUrl": null,
+                "ftype": 0,
+                "rtUrls": [],
+                "djId": 0,
+                "copyright": 1,
+                "s_id": 0,
+                "mark": 8192,
+                "originCoverType": 2,
+                "originSongSimpleData": null,
+                "tagPicList": null,
+                "resourceState": true,
+                "version": 3,
+                "songJumpInfo": null,
+                "entertainmentTags": null,
+                "single": 0,
+                "noCopyrightRcmd": null,
+                "rtype": 0,
+                "rurl": null,
+                "mst": 9,
+                "cp": 1416503,
+                "mv": 0,
+                "publishTime": 1739894400000,
+                "privilege": {
+                    "id": 2676618884,
+                    "fee": 8,
+                    "payed": 0,
+                    "st": 0,
+                    "pl": 320000,
+                    "dl": 0,
+                    "sp": 7,
+                    "cp": 1,
+                    "subp": 1,
+                    "cs": false,
+                    "maxbr": 999000,
+                    "fl": 320000,
+                    "toast": false,
+                    "flag": 260,
+                    "preSell": false,
+                    "playMaxbr": 999000,
+                    "downloadMaxbr": 999000,
+                    "maxBrLevel": "lossless",
+                    "playMaxBrLevel": "lossless",
+                    "downloadMaxBrLevel": "lossless",
+                    "plLevel": "exhigh",
+                    "dlLevel": "none",
+                    "flLevel": "exhigh",
+                    "rscl": null,
+                    "freeTrialPrivilege": {
+                        "resConsumable": false,
+                        "userConsumable": false,
+                        "listenType": 0,
+                        "cannotListenReason": 1,
+                        "playReason": null,
+                        "freeLimitTagType": null
+                    },
+                    "rightSource": 0,
+                    "chargeInfoList": [
+                        {
+                            "rate": 128000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 192000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 320000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        }
+                    ],
+                    "code": 0,
+                    "message": null,
+                    "plLevels": null,
+                    "dlLevels": null,
+                    "ignoreCache": null,
+                    "bd": null
+                }
+            },
+            {
+                "name": "他不懂（温柔女版）",
+                "id": 2678701878,
+                "pst": 0,
+                "t": 0,
+                "ar": [
+                    {
+                        "id": 32973963,
+                        "name": "小馨饱饱",
+                        "tns": [],
+                        "alias": []
+                    }
+                ],
+                "alia": [],
+                "pop": 45.0,
+                "st": 0,
+                "rt": "",
+                "fee": 8,
+                "v": 38,
+                "crbt": null,
+                "cf": "",
+                "al": {
+                    "id": 263995733,
+                    "name": "他不懂（温柔女版）",
+                    "picUrl": "http://p2.music.126.net/zEVPw0e4dMQyBgv_WenhjA==/109951170517465795.jpg",
+                    "tns": [],
+                    "pic_str": "109951170517465795",
+                    "pic": 109951170517465795
+                },
+                "dt": 208807,
+                "h": {
+                    "br": 320000,
+                    "fid": 0,
+                    "size": 8354925,
+                    "vd": -2569.0,
+                    "sr": 48000
+                },
+                "m": {
+                    "br": 192000,
+                    "fid": 0,
+                    "size": 5012973,
+                    "vd": 43.0,
+                    "sr": 48000
+                },
+                "l": {
+                    "br": 128000,
+                    "fid": 0,
+                    "size": 3341997,
+                    "vd": 1769.0,
+                    "sr": 48000
+                },
+                "sq": {
+                    "br": 813142,
+                    "fid": 0,
+                    "size": 21227633,
+                    "vd": -2566.0,
+                    "sr": 48000
+                },
+                "hr": {
+                    "br": 1577446,
+                    "fid": 0,
+                    "size": 41176708,
+                    "vd": -2567.0,
+                    "sr": 48000
+                },
+                "a": null,
+                "cd": "01",
+                "no": 0,
+                "rtUrl": null,
+                "ftype": 0,
+                "rtUrls": [],
+                "djId": 0,
+                "copyright": 0,
+                "s_id": 0,
+                "mark": 17716748288,
+                "originCoverType": 3,
+                "originSongSimpleData": null,
+                "tagPicList": null,
+                "resourceState": true,
+                "version": 4,
+                "songJumpInfo": null,
+                "entertainmentTags": null,
+                "single": 0,
+                "noCopyrightRcmd": null,
+                "rtype": 0,
+                "rurl": null,
+                "mst": 9,
+                "cp": 0,
+                "mv": 0,
+                "publishTime": 1740499200000,
+                "privilege": {
+                    "id": 2678701878,
+                    "fee": 8,
+                    "payed": 0,
+                    "st": 0,
+                    "pl": 320000,
+                    "dl": 0,
+                    "sp": 7,
+                    "cp": 1,
+                    "subp": 1,
+                    "cs": false,
+                    "maxbr": 999000,
+                    "fl": 320000,
+                    "toast": false,
+                    "flag": 260,
+                    "preSell": false,
+                    "playMaxbr": 999000,
+                    "downloadMaxbr": 999000,
+                    "maxBrLevel": "hires",
+                    "playMaxBrLevel": "hires",
+                    "downloadMaxBrLevel": "hires",
+                    "plLevel": "exhigh",
+                    "dlLevel": "none",
+                    "flLevel": "exhigh",
+                    "rscl": null,
+                    "freeTrialPrivilege": {
+                        "resConsumable": false,
+                        "userConsumable": false,
+                        "listenType": 0,
+                        "cannotListenReason": 1,
+                        "playReason": null,
+                        "freeLimitTagType": null
+                    },
+                    "rightSource": 0,
+                    "chargeInfoList": [
+                        {
+                            "rate": 128000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 192000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 320000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 1999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        }
+                    ],
+                    "code": 0,
+                    "message": null,
+                    "plLevels": null,
+                    "dlLevels": null,
+                    "ignoreCache": null,
+                    "bd": null
+                }
+            },
+            {
+                "name": "他不懂（她留给你是背影(说唱版)",
+                "id": 2686635966,
+                "pst": 0,
+                "t": 0,
+                "ar": [
+                    {
+                        "id": 47058186,
+                        "name": "小瑞",
+                        "tns": [],
+                        "alias": []
+                    },
+                    {
+                        "id": 95686818,
+                        "name": "泡泡",
+                        "tns": [],
+                        "alias": []
+                    }
+                ],
+                "alia": [],
+                "pop": 75.0,
+                "st": 0,
+                "rt": "",
+                "fee": 8,
+                "v": 38,
+                "crbt": null,
+                "cf": "",
+                "al": {
+                    "id": 266503841,
+                    "name": "她留给你是背影（她真的不懂）",
+                    "picUrl": "http://p2.music.126.net/wJRqccpfuHOCk4I92vpDyg==/109951170630171095.jpg",
+                    "tns": [],
+                    "pic_str": "109951170630171095",
+                    "pic": 109951170630171095
+                },
+                "dt": 145968,
+                "h": {
+                    "br": 320000,
+                    "fid": 0,
+                    "size": 5841023,
+                    "vd": -51152.0,
+                    "sr": 44100
+                },
+                "m": {
+                    "br": 192000,
+                    "fid": 0,
+                    "size": 3504631,
+                    "vd": -48478.0,
+                    "sr": 44100
+                },
+                "l": {
+                    "br": 128000,
+                    "fid": 0,
+                    "size": 2336435,
+                    "vd": -46530.0,
+                    "sr": 44100
+                },
+                "sq": {
+                    "br": 686141,
+                    "fid": 0,
+                    "size": 12522073,
+                    "vd": -51160.0,
+                    "sr": 44100
+                },
+                "hr": null,
+                "a": null,
+                "cd": "01",
+                "no": 2,
+                "rtUrl": null,
+                "ftype": 0,
+                "rtUrls": [],
+                "djId": 0,
+                "copyright": 1,
+                "s_id": 0,
+                "mark": 8192,
+                "originCoverType": 2,
+                "originSongSimpleData": {
+                    "songId": 28059417,
+                    "name": "他不懂",
+                    "artists": [
+                        {
+                            "id": 6472,
+                            "name": "张杰"
+                        }
+                    ],
+                    "albumMeta": {
+                        "id": 2643348,
+                        "name": "爱，不解释"
+                    }
+                },
+                "tagPicList": null,
+                "resourceState": true,
+                "version": 4,
+                "songJumpInfo": null,
+                "entertainmentTags": null,
+                "single": 0,
+                "noCopyrightRcmd": null,
+                "rtype": 0,
+                "rurl": null,
+                "mst": 9,
+                "cp": 1416503,
+                "mv": 0,
+                "publishTime": 1742400000000,
+                "privilege": {
+                    "id": 2686635966,
+                    "fee": 8,
+                    "payed": 0,
+                    "st": 0,
+                    "pl": 320000,
+                    "dl": 0,
+                    "sp": 7,
+                    "cp": 1,
+                    "subp": 1,
+                    "cs": false,
+                    "maxbr": 999000,
+                    "fl": 320000,
+                    "toast": false,
+                    "flag": 260,
+                    "preSell": false,
+                    "playMaxbr": 999000,
+                    "downloadMaxbr": 999000,
+                    "maxBrLevel": "lossless",
+                    "playMaxBrLevel": "lossless",
+                    "downloadMaxBrLevel": "lossless",
+                    "plLevel": "exhigh",
+                    "dlLevel": "none",
+                    "flLevel": "exhigh",
+                    "rscl": null,
+                    "freeTrialPrivilege": {
+                        "resConsumable": false,
+                        "userConsumable": false,
+                        "listenType": 0,
+                        "cannotListenReason": 1,
+                        "playReason": null,
+                        "freeLimitTagType": null
+                    },
+                    "rightSource": 0,
+                    "chargeInfoList": [
+                        {
+                            "rate": 128000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 192000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 320000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        }
+                    ],
+                    "code": 0,
+                    "message": null,
+                    "plLevels": null,
+                    "dlLevels": null,
+                    "ignoreCache": null,
+                    "bd": null
+                }
+            },
+            {
+                "name": "他不懂（DJ初遇硕版）",
+                "id": 2686637504,
+                "pst": 0,
+                "t": 0,
+                "ar": [
+                    {
+                        "id": 96203748,
+                        "name": "DJ初遇硕",
+                        "tns": [],
+                        "alias": []
+                    }
+                ],
+                "alia": [],
+                "pop": 10.0,
+                "st": 0,
+                "rt": "",
+                "fee": 8,
+                "v": 36,
+                "crbt": null,
+                "cf": "",
+                "al": {
+                    "id": 266504530,
+                    "name": "他不懂（DJ初遇硕版）",
+                    "picUrl": "http://p2.music.126.net/d_5PYEyGrODF6Hc8v9Aa8Q==/109951170630173068.jpg",
+                    "tns": [],
+                    "pic_str": "109951170630173068",
+                    "pic": 109951170630173068
+                },
+                "dt": 240017,
+                "h": {
+                    "br": 320002,
+                    "fid": 0,
+                    "size": 9603701,
+                    "vd": -63642.0,
+                    "sr": 44100
+                },
+                "m": {
+                    "br": 192002,
+                    "fid": 0,
+                    "size": 5762238,
+                    "vd": -61077.0,
+                    "sr": 44100
+                },
+                "l": {
+                    "br": 128002,
+                    "fid": 0,
+                    "size": 3841506,
+                    "vd": -59582.0,
+                    "sr": 44100
+                },
+                "sq": {
+                    "br": 954053,
+                    "fid": 0,
+                    "size": 28628155,
+                    "vd": -63646.0,
+                    "sr": 44100
+                },
+                "hr": null,
+                "a": null,
+                "cd": "01",
+                "no": 1,
+                "rtUrl": null,
+                "ftype": 0,
+                "rtUrls": [],
+                "djId": 0,
+                "copyright": 1,
+                "s_id": 0,
+                "mark": 8192,
+                "originCoverType": 2,
+                "originSongSimpleData": {
+                    "songId": 28059417,
+                    "name": "他不懂",
+                    "artists": [
+                        {
+                            "id": 6472,
+                            "name": "张杰"
+                        }
+                    ],
+                    "albumMeta": {
+                        "id": 2643348,
+                        "name": "爱，不解释"
+                    }
+                },
+                "tagPicList": null,
+                "resourceState": true,
+                "version": 2,
+                "songJumpInfo": null,
+                "entertainmentTags": null,
+                "single": 0,
+                "noCopyrightRcmd": null,
+                "rtype": 0,
+                "rurl": null,
+                "mst": 9,
+                "cp": 1416503,
+                "mv": 0,
+                "publishTime": 1742400000000,
+                "privilege": {
+                    "id": 2686637504,
+                    "fee": 8,
+                    "payed": 0,
+                    "st": 0,
+                    "pl": 320000,
+                    "dl": 0,
+                    "sp": 7,
+                    "cp": 1,
+                    "subp": 1,
+                    "cs": false,
+                    "maxbr": 999000,
+                    "fl": 320000,
+                    "toast": false,
+                    "flag": 260,
+                    "preSell": false,
+                    "playMaxbr": 999000,
+                    "downloadMaxbr": 999000,
+                    "maxBrLevel": "lossless",
+                    "playMaxBrLevel": "lossless",
+                    "downloadMaxBrLevel": "lossless",
+                    "plLevel": "exhigh",
+                    "dlLevel": "none",
+                    "flLevel": "exhigh",
+                    "rscl": null,
+                    "freeTrialPrivilege": {
+                        "resConsumable": false,
+                        "userConsumable": false,
+                        "listenType": 0,
+                        "cannotListenReason": 1,
+                        "playReason": null,
+                        "freeLimitTagType": null
+                    },
+                    "rightSource": 0,
+                    "chargeInfoList": [
+                        {
+                            "rate": 128000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 192000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 320000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        }
+                    ],
+                    "code": 0,
+                    "message": null,
+                    "plLevels": null,
+                    "dlLevels": null,
+                    "ignoreCache": null,
+                    "bd": null
+                }
+            },
+            {
+                "name": "他不懂",
+                "id": 2677537706,
+                "pst": 0,
+                "t": 0,
+                "ar": [
+                    {
+                        "id": 34970081,
+                        "name": "Yan焰火腾",
+                        "tns": [],
+                        "alias": []
+                    },
+                    {
+                        "id": 96051003,
+                        "name": "李浪浪nanana",
+                        "tns": [],
+                        "alias": []
+                    }
+                ],
+                "alia": [],
+                "pop": 5.0,
+                "st": 0,
+                "rt": "",
+                "fee": 0,
+                "v": 41,
+                "crbt": null,
+                "cf": "",
+                "al": {
+                    "id": 263635339,
+                    "name": "他不懂",
+                    "picUrl": "http://p2.music.126.net/s4tmq96EYcyWNB4N0cbO8g==/109951170505550141.jpg",
+                    "tns": [],
+                    "pic_str": "109951170505550141",
+                    "pic": 109951170505550141
+                },
+                "dt": 263606,
+                "h": {
+                    "br": 320000,
+                    "fid": 0,
+                    "size": 10546605,
+                    "vd": 4864.0,
+                    "sr": 48000
+                },
+                "m": {
+                    "br": 192000,
+                    "fid": 0,
+                    "size": 6327981,
+                    "vd": 7474.0,
+                    "sr": 48000
+                },
+                "l": {
+                    "br": 128000,
+                    "fid": 0,
+                    "size": 4218669,
+                    "vd": 9158.0,
+                    "sr": 48000
+                },
+                "sq": {
+                    "br": 837022,
+                    "fid": 0,
+                    "size": 27585407,
+                    "vd": 4874.0,
+                    "sr": 48000
+                },
+                "hr": {
+                    "br": 1593754,
+                    "fid": 0,
+                    "size": 52520338,
+                    "vd": 4874.0,
+                    "sr": 48000
+                },
+                "a": null,
+                "cd": "01",
+                "no": 1,
+                "rtUrl": null,
+                "ftype": 0,
+                "rtUrls": [],
+                "djId": 0,
+                "copyright": 0,
+                "s_id": 0,
+                "mark": 536871040,
+                "originCoverType": 2,
+                "originSongSimpleData": null,
+                "tagPicList": null,
+                "resourceState": true,
+                "version": 7,
+                "songJumpInfo": null,
+                "entertainmentTags": null,
+                "single": 0,
+                "noCopyrightRcmd": null,
+                "rtype": 0,
+                "rurl": null,
+                "mst": 9,
+                "cp": 0,
+                "mv": 0,
+                "publishTime": 0,
+                "privilege": {
+                    "id": 2677537706,
+                    "fee": 0,
+                    "payed": 0,
+                    "st": 0,
+                    "pl": 320000,
+                    "dl": 999000,
+                    "sp": 7,
+                    "cp": 1,
+                    "subp": 1,
+                    "cs": false,
+                    "maxbr": 999000,
+                    "fl": 320000,
+                    "toast": false,
+                    "flag": 129,
+                    "preSell": false,
+                    "playMaxbr": 999000,
+                    "downloadMaxbr": 999000,
+                    "maxBrLevel": "hires",
+                    "playMaxBrLevel": "hires",
+                    "downloadMaxBrLevel": "hires",
+                    "plLevel": "exhigh",
+                    "dlLevel": "hires",
+                    "flLevel": "exhigh",
+                    "rscl": null,
+                    "freeTrialPrivilege": {
+                        "resConsumable": false,
+                        "userConsumable": false,
+                        "listenType": 0,
+                        "cannotListenReason": 1,
+                        "playReason": null,
+                        "freeLimitTagType": null
+                    },
+                    "rightSource": 0,
+                    "chargeInfoList": [
+                        {
+                            "rate": 128000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 192000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 320000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 1999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        }
+                    ],
+                    "code": 0,
+                    "message": null,
+                    "plLevels": null,
+                    "dlLevels": null,
+                    "ignoreCache": null,
+                    "bd": null
+                }
+            },
+            {
+                "name": "他不懂",
+                "id": 2636331993,
+                "pst": 0,
+                "t": 0,
+                "ar": [
+                    {
+                        "id": 32220939,
+                        "name": "en（王翊恩）",
+                        "tns": [],
+                        "alias": []
+                    }
+                ],
+                "alia": [],
+                "pop": 95.0,
+                "st": 0,
+                "rt": "",
+                "fee": 1,
+                "v": 40,
+                "crbt": null,
+                "cf": "",
+                "al": {
+                    "id": 250638011,
+                    "name": "他不懂",
+                    "picUrl": "http://p2.music.126.net/1NeP5C3m96XiijudN2KDWw==/109951170042903664.jpg",
+                    "tns": [],
+                    "pic_str": "109951170042903664",
+                    "pic": 109951170042903664
+                },
+                "dt": 234986,
+                "h": {
+                    "br": 320000,
+                    "fid": 0,
+                    "size": 9402036,
+                    "vd": -41480.0,
+                    "sr": 44100
+                },
+                "m": {
+                    "br": 192000,
+                    "fid": 0,
+                    "size": 5641239,
+                    "vd": -38937.0,
+                    "sr": 44100
+                },
+                "l": {
+                    "br": 128000,
+                    "fid": 0,
+                    "size": 3760840,
+                    "vd": -37417.0,
+                    "sr": 44100
+                },
+                "sq": {
+                    "br": 867103,
+                    "fid": 0,
+                    "size": 25469725,
+                    "vd": -41491.0,
+                    "sr": 44100
+                },
+                "hr": null,
+                "a": null,
+                "cd": "01",
+                "no": 1,
+                "rtUrl": null,
+                "ftype": 0,
+                "rtUrls": [],
+                "djId": 0,
+                "copyright": 1,
+                "s_id": 0,
+                "mark": 17179877376,
+                "originCoverType": 2,
+                "originSongSimpleData": {
+                    "songId": 28059417,
+                    "name": "他不懂",
+                    "artists": [
+                        {
+                            "id": 6472,
+                            "name": "张杰"
+                        }
+                    ],
+                    "albumMeta": {
+                        "id": 2643348,
+                        "name": "爱，不解释"
+                    }
+                },
+                "tagPicList": null,
+                "resourceState": true,
+                "version": 6,
+                "songJumpInfo": null,
+                "entertainmentTags": null,
+                "single": 0,
+                "noCopyrightRcmd": null,
+                "rtype": 0,
+                "rurl": null,
+                "mst": 9,
+                "cp": 7002,
+                "mv": 0,
+                "publishTime": 1728921600000,
+                "privilege": {
+                    "id": 2636331993,
+                    "fee": 1,
+                    "payed": 0,
+                    "st": 0,
+                    "pl": 0,
+                    "dl": 0,
+                    "sp": 0,
+                    "cp": 0,
+                    "subp": 1,
+                    "cs": false,
+                    "maxbr": 999000,
+                    "fl": 0,
+                    "toast": false,
+                    "flag": 260,
+                    "preSell": false,
+                    "playMaxbr": 999000,
+                    "downloadMaxbr": 999000,
+                    "maxBrLevel": "lossless",
+                    "playMaxBrLevel": "lossless",
+                    "downloadMaxBrLevel": "lossless",
+                    "plLevel": "none",
+                    "dlLevel": "none",
+                    "flLevel": "none",
+                    "rscl": null,
+                    "freeTrialPrivilege": {
+                        "resConsumable": true,
+                        "userConsumable": false,
+                        "listenType": 0,
+                        "cannotListenReason": 0,
+                        "playReason": null,
+                        "freeLimitTagType": null
+                    },
+                    "rightSource": 0,
+                    "chargeInfoList": [
+                        {
+                            "rate": 128000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 192000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 320000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        }
+                    ],
+                    "code": 0,
+                    "message": null,
+                    "plLevels": null,
+                    "dlLevels": null,
+                    "ignoreCache": null,
+                    "bd": null
+                }
+            },
+            {
+                "name": "他不懂 (伴奏)",
+                "id": 2659688346,
+                "pst": 0,
+                "t": 0,
+                "ar": [
+                    {
+                        "id": 31388779,
+                        "name": "丁禹兮",
+                        "tns": [],
+                        "alias": []
+                    }
+                ],
+                "alia": [],
+                "pop": 50.0,
+                "st": 0,
+                "rt": "",
+                "fee": 8,
+                "v": 40,
+                "crbt": null,
+                "cf": "",
+                "al": {
+                    "id": 257838678,
+                    "name": "他不懂",
+                    "picUrl": "http://p2.music.126.net/fZvFnAIJj9Sl2Kx6er9LeA==/109951170303706623.jpg",
+                    "tns": [],
+                    "pic_str": "109951170303706623",
+                    "pic": 109951170303706623
+                },
+                "dt": 208807,
+                "h": {
+                    "br": 320000,
+                    "fid": 0,
+                    "size": 8354925,
+                    "vd": -18636.0,
+                    "sr": 48000
+                },
+                "m": {
+                    "br": 192000,
+                    "fid": 0,
+                    "size": 5012973,
+                    "vd": -15957.0,
+                    "sr": 48000
+                },
+                "l": {
+                    "br": 128000,
+                    "fid": 0,
+                    "size": 3341997,
+                    "vd": -14276.0,
+                    "sr": 48000
+                },
+                "sq": {
+                    "br": 736097,
+                    "fid": 0,
+                    "size": 19212845,
+                    "vd": -17792.0,
+                    "sr": 48000
+                },
+                "hr": {
+                    "br": 1494049,
+                    "fid": 0,
+                    "size": 38996123,
+                    "vd": -18850.0,
+                    "sr": 48000
+                },
+                "a": null,
+                "cd": "01",
+                "no": 2,
+                "rtUrl": null,
+                "ftype": 0,
+                "rtUrls": [],
+                "djId": 0,
+                "copyright": 0,
+                "s_id": 0,
+                "mark": 17717141504,
+                "originCoverType": 0,
+                "originSongSimpleData": null,
+                "tagPicList": null,
+                "resourceState": true,
+                "version": 6,
+                "songJumpInfo": null,
+                "entertainmentTags": null,
+                "single": 0,
+                "noCopyrightRcmd": null,
+                "rtype": 0,
+                "rurl": null,
+                "mst": 9,
+                "cp": 7001,
+                "mv": 0,
+                "publishTime": 0,
+                "privilege": {
+                    "id": 2659688346,
+                    "fee": 8,
+                    "payed": 0,
+                    "st": 0,
+                    "pl": 320000,
+                    "dl": 0,
+                    "sp": 7,
+                    "cp": 1,
+                    "subp": 1,
+                    "cs": false,
+                    "maxbr": 999000,
+                    "fl": 320000,
+                    "toast": false,
+                    "flag": 260,
+                    "preSell": false,
+                    "playMaxbr": 999000,
+                    "downloadMaxbr": 999000,
+                    "maxBrLevel": "hires",
+                    "playMaxBrLevel": "hires",
+                    "downloadMaxBrLevel": "hires",
+                    "plLevel": "exhigh",
+                    "dlLevel": "none",
+                    "flLevel": "exhigh",
+                    "rscl": null,
+                    "freeTrialPrivilege": {
+                        "resConsumable": false,
+                        "userConsumable": false,
+                        "listenType": 0,
+                        "cannotListenReason": 1,
+                        "playReason": null,
+                        "freeLimitTagType": null
+                    },
+                    "rightSource": 0,
+                    "chargeInfoList": [
+                        {
+                            "rate": 128000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 192000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 320000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 1999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        }
+                    ],
+                    "code": 0,
+                    "message": null,
+                    "plLevels": null,
+                    "dlLevels": null,
+                    "ignoreCache": null,
+                    "bd": null
+                }
+            },
+            {
+                "name": "他不懂（她留你是背影）",
+                "id": 2676619200,
+                "pst": 0,
+                "t": 0,
+                "ar": [
+                    {
+                        "id": 52807985,
+                        "name": "周潇齐",
+                        "tns": [],
+                        "alias": [
+                            "YuanWeiBing"
+                        ],
+                        "alia": [
+                            "YuanWeiBing"
+                        ]
+                    }
+                ],
+                "alia": [],
+                "pop": 65.0,
+                "st": 0,
+                "rt": "",
+                "fee": 8,
+                "v": 43,
+                "crbt": null,
+                "cf": "",
+                "al": {
+                    "id": 263348552,
+                    "name": "他不懂（她给留你是背影）",
+                    "picUrl": "http://p2.music.126.net/UdTSSoAJUjI2RGOhrj6cow==/109951170516410860.jpg",
+                    "tns": [],
+                    "pic_str": "109951170516410860",
+                    "pic": 109951170516410860
+                },
+                "dt": 178306,
+                "h": {
+                    "br": 320000,
+                    "fid": 0,
+                    "size": 7134607,
+                    "vd": -36052.0,
+                    "sr": 44100
+                },
+                "m": {
+                    "br": 192000,
+                    "fid": 0,
+                    "size": 4280782,
+                    "vd": -33408.0,
+                    "sr": 44100
+                },
+                "l": {
+                    "br": 128000,
+                    "fid": 0,
+                    "size": 2853869,
+                    "vd": -31612.0,
+                    "sr": 44100
+                },
+                "sq": {
+                    "br": 406750,
+                    "fid": 0,
+                    "size": 9069051,
+                    "vd": -36054.0,
+                    "sr": 44100
+                },
+                "hr": null,
+                "a": null,
+                "cd": "01",
+                "no": 2,
+                "rtUrl": null,
+                "ftype": 0,
+                "rtUrls": [],
+                "djId": 0,
+                "copyright": 1,
+                "s_id": 0,
+                "mark": 17179877376,
+                "originCoverType": 2,
+                "originSongSimpleData": {
+                    "songId": 28059417,
+                    "name": "他不懂",
+                    "artists": [
+                        {
+                            "id": 6472,
+                            "name": "张杰"
+                        }
+                    ],
+                    "albumMeta": {
+                        "id": 2643348,
+                        "name": "爱，不解释"
+                    }
+                },
+                "tagPicList": null,
+                "resourceState": true,
+                "version": 9,
+                "songJumpInfo": null,
+                "entertainmentTags": null,
+                "single": 0,
+                "noCopyrightRcmd": null,
+                "rtype": 0,
+                "rurl": null,
+                "mst": 9,
+                "cp": 1416503,
+                "mv": 0,
+                "publishTime": 1739894400000,
+                "privilege": {
+                    "id": 2676619200,
+                    "fee": 8,
+                    "payed": 0,
+                    "st": 0,
+                    "pl": 320000,
+                    "dl": 0,
+                    "sp": 7,
+                    "cp": 1,
+                    "subp": 1,
+                    "cs": false,
+                    "maxbr": 999000,
+                    "fl": 320000,
+                    "toast": false,
+                    "flag": 260,
+                    "preSell": false,
+                    "playMaxbr": 999000,
+                    "downloadMaxbr": 999000,
+                    "maxBrLevel": "lossless",
+                    "playMaxBrLevel": "lossless",
+                    "downloadMaxBrLevel": "lossless",
+                    "plLevel": "exhigh",
+                    "dlLevel": "none",
+                    "flLevel": "exhigh",
+                    "rscl": null,
+                    "freeTrialPrivilege": {
+                        "resConsumable": false,
+                        "userConsumable": false,
+                        "listenType": 0,
+                        "cannotListenReason": 1,
+                        "playReason": null,
+                        "freeLimitTagType": null
+                    },
+                    "rightSource": 0,
+                    "chargeInfoList": [
+                        {
+                            "rate": 128000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 192000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 320000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        }
+                    ],
+                    "code": 0,
+                    "message": null,
+                    "plLevels": null,
+                    "dlLevels": null,
+                    "ignoreCache": null,
+                    "bd": null
+                }
+            }
+        ],
+        "songCount": 303
+    },
+    "code": 200
+}
