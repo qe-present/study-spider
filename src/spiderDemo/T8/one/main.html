@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>T8-字体反爬</title>
+</head>
+<body>
+<div class="numbers-grid" id="numbersGrid">
+</div>
+<script>
+        function renderNumbers(_0x3bd5f) {
+            const _0x2ba44a = document['getElementById']('numbersGrid');
+            _0x2ba44a['innerHTML'] = _0x3bd5f['map']((_0x27a712, _0x5d9262) => '<div\x20class=\x22number-box\x22\x20style=\x22animation-delay:\x20' + _0x5d9262 * 0.1 + 's\x22>' + _0x27a712 + '</div>')['join']('');
+        }
+        function loadCustomFont(base64Font) {
+            // 移除之前的字体样式（如果存在）
+            const existingStyle = document.getElementById('custom-font-style');
+            if (existingStyle) {
+                existingStyle.remove();
+            }
+            // 创建新的字体样式
+            const style = document.createElement('style');
+            style.id = 'custom-font-style';
+            style.textContent = `
+                @font-face {
+                    font-family: 'AntiSpiderFont';
+                    src: url(data:font/woff2;base64,${base64Font}) format('woff2');
+                    font-weight: normal;
+                    font-style: normal;
+                }
+
+                    .numbers-grid {
+                        display: inline-flex;
+                        gap: 2px;
+                        font-family: 'AntiSpiderFont', monospace;
+                    }
+                    .number-box {
+                        display: inline-block;
+                        min-width: 48px;
+                        height: 20px;
+                        line-height: 20px;
+                        text-align: center;
+                        font-family: 'AntiSpiderFont', monospace;
+                        padding: 0 2px;
+                        box-sizing: content-box;
+                    }
+
+                     .number-item, .number, .data-item {
+                     font-family: 'AntiSpiderFont', monospace !important;
+                     font-variant-numeric: normal;
+                     font-feature-settings: normal;
+                 }
+                 .numbers-grid * {
+                     font-family: 'AntiSpiderFont', monospace !important;
+                 }
+            `;
+            document.head.appendChild(style);
+        }
+    </script>
+</body>
+</html>

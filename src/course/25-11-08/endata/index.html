@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="index.js"></script>
+    <script src="https://cdn.bootcdn.net/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+</head>
+<body>
+<script>
+    const params = {
+      pageIndex: '4',
+      pageSize: '12',
+      SceneID: '2',
+      TagID: '',
+      MethodName: 'Data_ReportListNew'
+    };
+    console.log(webInstace)
+    $.post('http://localhost:8082/API/GetData.ashx',params, function (data) {
+        console.log(JSON.parse(webInstace.shell(data)));
+    });
+
+</script>
+</body>
+</html>

@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="https://cdn.bootcdn.net/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+</head>
+<script src="a.js"></script>
+<script>
+    let signature= get_signature()
+    let baseUrl = 'http://localhost:8082'
+    const url = baseUrl+`/authentication/api/ob1_challenge/page/7/?challenge_type=ob1_challenge&signature=${signature}`;
+    $.get(url, function (data) {
+        console.log(data);
+    });
+</script>
+</html>

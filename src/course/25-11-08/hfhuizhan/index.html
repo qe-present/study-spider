@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>
+</head>
+<script>
+    let Zt = "$shanghaidianqi$"
+    let Vt = "2023050814260000"
+    function crypt(date) {
+        let a={
+            "yyyyMM":date
+        }
+        let Xe=JSON.stringify(a)
+        var ot = CryptoJS.enc.Utf8.parse(Zt)
+            , Kt = CryptoJS.enc.Utf8.parse(Vt)
+            , kt = CryptoJS.AES.encrypt(Xe, ot, {
+            iv: Kt,
+            mode: CryptoJS.mode.CBC,
+            padding: CryptoJS.pad.Pkcs7
+        });
+        return kt.toString()
+    }
+    function decrypt(Xe) {
+        var ot = CryptoJS.enc.Utf8.parse(Zt)
+            , Kt = CryptoJS.enc.Utf8.parse(Vt)
+            , kt = CryptoJS.AES.decrypt(Xe, ot, {
+            iv: Kt,
+            mode: CryptoJS.mode.CBC,
+            padding: CryptoJS.pad.Pkcs7
+        })
+            , yr = kt.toString(CryptoJS.enc.Utf8);
+        return yr.toString()
+    }
+</script>
+<body>
+
+</body>
+</html>

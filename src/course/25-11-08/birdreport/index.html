@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="https://cdn.bootcdn.net/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script src="index.js"></script>
+    <script>
+        let data = {
+            "city": "",
+            "ctime": "",
+            "district": "",
+            "endTime": "",
+            "mode": "0",
+            "pointname": "",
+            "province": "",
+            "serial_id": "",
+            "startTime": "2025-10-15",
+            "state": "",
+            "taxonid": "",
+            "username": "",
+            "version": "CH4"
+        }
+        $.post("http://127.0.0.1:8082/front/record/search/TaxonCountBar", data)
+        $.post("http://127.0.0.1:8082/front/record/search/ReportCountBar", data)
+    </script>
+</head>
+<body>
+
+</body>
+</html>

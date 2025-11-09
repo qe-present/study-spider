@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+    <meta charset="utf-8"/>
+    <title>modern-screenshot 纯 HTML 示例</title>
+    <style>
+        #box {
+            width: 300px;
+            margin: 20px auto;
+            padding: 20px;
+            background: #f2f9ff;
+            border: 2px solid #409eff;
+            border-radius: 8px;
+            text-align: center;
+        }
+
+        img {
+            max-width: 100%;
+            box-shadow: 0 0 10px rgba(0, 0, 0, .15);
+        }
+    </style>
+</head>
+<body>
+
+<!-- ① 要被截图的元素 -->
+<div id="box">
+    <h2>Hello modern-screenshot</h2>
+    <p>这段内容会被截成 PNG</p>
+    <span style="color:#409eff">无需打包，单文件即可运行</span>
+</div>
+
+<!-- ② 控制按钮 -->
+<button onclick="shot()">截 图</button>
+<button onclick="clearImg()">清 空</button>
+
+<!-- ③ 结果展示区 -->
+<p id="tips"></p>
+<div id="preview"></div>
+<script type="module">
+    import {domToPng} from './node_modules/modern-screenshot/dist/index.mjs'
+
+    // 挂载到全局，供按钮调用
+    window.shot = async () => {
+        const node = document.getElementById('box')
+        const tips = document.getElementById('tips')
+        const preview = document.getElementById('preview')
+
+        tips.textContent = '生成中…'
+        try {
+            const dataUrl = await domToPng(node, {scale: 2}) // 2 倍高清
+            const a = document.createElement('a')
+            a.download = 'card.png'          // 默认文件名
+            a.href = dataUrl
+            a.click()
+            tips.textContent = '已自动下载'
+        } catch (err) {
+            tips.textContent = '生成失败：' + err.message
+        }
+    }
+
+    window.clearImg = () => {
+        document.getElementById('preview').innerHTML = ''
+        document.getElementById('tips').textContent = ''
+    }
+</script>
+</body>
+</html>

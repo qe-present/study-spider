@@ -10,7 +10,18 @@ dependencies = [
     "pyexecjs>=1.5.1",
     "pycryptodome>=3.23.0",
     "setuptools>=80.9.0",
-    "redis>=6.4.0",
+    "demjson3>=3.0.6",
+    "curl-cffi>=0.13.0",
+    "drissionpage>=4.1.1.2",
+    "httpx>=0.28.1",
+    "protobuf==3.20.3",
+    "fonttools>=4.60.1",
+    "matplotlib>=3.10.7",
+    "ddddocr>=1.5.6",
+    "paddlepaddle>=3.2.1",
+    "paddleocr>=3.3.1",
+    "xml2html>=0.2.0",
+    "mitmproxy>=12.2.0",
 ]
 readme = "README.md"
 requires-python = ">= 3.8"

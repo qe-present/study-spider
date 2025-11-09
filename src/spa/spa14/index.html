@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script type="module">
+    import {getWasm} from './index.js'
+    getWasm().then(({encrypt}) => {
+        window.encrypt = encrypt;
+        console.log('🔐 WASM 加密模块已就绪');
+    }).catch(err => {
+        console.error('❌ WASM 加载失败:', err);
+    });
+</script>
+<script>
+    function get_sign(limit,offset,time_stamp){
+         let page=Math.floor(offset / limit) + 1
+         let n = (page - 1) * 10
+         return window.encrypt(n, parseInt(time_stamp));
+    }
+</script>
+</body>
+</html>

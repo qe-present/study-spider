@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script src="pkg/index.js"></script>
+<script type="module">
+    import {getWasm} from './index.js'
+
+    var M = new Array(142)
+
+    getWasm().then(({a}) => {
+        let A = "GET"
+        let g = 'https://gdtv-api.gdtv.cn/api/news/v1/rollNews'
+        let I = 'WEB_09275450-b222-11f0-a1d3-3fa96a621c95'
+        var B = 'WEB_PC'
+        let Q = ''
+        let C = undefined
+
+        let E = L(A, window.__wbindgen_export_0, window.__wbindgen_export_1)
+            , D = h
+            , i = L(g, window.__wbindgen_export_0, window.__wbindgen_export_1)
+            , o = h
+            , Y = L(I, window.__wbindgen_export_0, window.__wbindgen_export_1)
+            , N = h
+            , J = L(B, window.__wbindgen_export_0, window.__wbindgen_export_1)
+            , k = h
+            , K = L(Q, window.__wbindgen_export_0, window.__wbindgen_export_1)
+            , y = h;
+        // E, D, i, o, Y, N, J, k, K, y
+        let H = 128;
+        try {
+            let res = a(E, D, i, o, Y, N, J, k, K, y, function (A) {
+                try {
+                                    if (1 == H)
+                    throw new Error("out of js stack");
+                return M[--H] = A,
+                    H
+                }catch (e) {
+                    console.log('err', e)
+                }
+
+            }(C));
+        } catch (e) {
+            console.log('err', e)
+        }
+
+
+    })
+</script>
+</body>
+</html>

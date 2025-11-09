@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+    <!-- 引入加密库 -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/js-sha3/0.8.0/sha3.min.js"></script>
+<!-- 引入 axios -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/axios/1.6.0/axios.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+<script src="hash_challenge.js"></script>
+<script>
+    function get_params(page,timestamp){
+        let o = window.r(page, "hash_challenge", timestamp);
+        return {
+            "X-Request-Token": o.hmac,
+            "X-Verify-Code":o.md5,
+            "sign":o.sha256,
+            "code":o.sha3_256,
+        }
+
+    }
+
+</script>
+<body>
+
+</body>
+</html>

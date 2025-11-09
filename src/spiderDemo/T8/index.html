@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>T8-字体反爬</title>
+</head>
+<body>
+<!-- 返回按钮 -->
+<a href="/" class="back-btn">返回</a>
+
+<div class="container">
+    <!-- 页面标题 -->
+    <div class="page-header">
+        <h1 class="page-title">T8-字体反爬</h1>
+        <p class="page-subtitle">Number Collection Challenge - 测试你的数据采集技能</p>
+    </div>
+
+    <!-- 登录提示区域 -->
+    <div id="loginAlert" class="login-alert" style="display: none;">
+        <div class="login-alert-content">
+            <span class="login-alert-icon">🔐</span>
+            <span class="login-alert-text">请先登录才能参与挑战！</span>
+            <a href="/admin_I/" class="login-alert-btn">立即登录</a>
+        </div>
+    </div>
+
+    <!-- 挑战内容 -->
+    <div class="challenge-content" style="position: relative;">
+        <div class="loading-overlay" id="loadingOverlay">
+            <div class="loading-spinner"></div>
+        </div>
+
+        <div class="challenge-header">
+            <h2 class="challenge-title">🎯 任务: 采集这100页的全部数字，计算加和并提交结果</h2>
+            <p class="challenge-description">每个页面包含10个随机数字，你需要采集所有100页的数字进行求和运算</p>
+        </div>
+
+        <div class="number-challenge">
+            <!-- 统计信息 -->
+            <div class="stats-info">
+                <div class="stat-item">
+                    <span class="stat-number" id="currentPageNum">1</span>
+                    <div class="stat-label">当前页</div>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-number" id="totalPages">5</span>
+                    <div class="stat-label">总页数</div>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-number" id="collectedPages">0</span>
+                    <div class="stat-label">已采集页数</div>
+                </div>
+            </div>
+
+            <!-- 数字网格 -->
+            <div class="numbers-grid" id="numbersGrid">
+                <!-- 数字将通过JavaScript生成 -->
+            </div>
+        </div>
+
+        <!-- 分页导航 -->
+        <div class="pagination-container">
+            <div class="pagination-info" id="paginationInfo">
+                第 1 页，共 100 页 | 当前页面包含 10 个数字
+            </div>
+
+            <div class="pagination" id="paginationControls">
+                <button class="page-btn" onclick="changePage('prev')" id="prevBtn" disabled>← 上一页</button>
+                <button class="page-btn active" onclick="changePage(1)">1</button>
+                <button class="page-btn" onclick="changePage(2)">2</button>
+                <button class="page-btn" onclick="changePage(3)">3</button>
+                <button class="page-btn" onclick="changePage(4)">4</button>
+                <button class="page-btn" onclick="changePage(5)">5</button>
+                <button class="page-btn" onclick="changePage('next')" id="nextBtn">下一页 →</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- 答案提交区域 -->
+    <div class="answer-section">
+        <h3 class="answer-title">💡 提交你的计算结果</h3>
+        <div class="answer-form">
+            <div class="input-group">
+                <label for="answerInput" class="input-label">请输入所有数字的总和:</label>
+                <input type="text" id="answerInput" class="answer-input" placeholder="例如: 45623" maxlength="10">
+            </div>
+            <button class="submit-btn" onclick="submitAnswer()">提交答案</button>
+        </div>
+        <div id="resultMessage" class="result-message"></div>
+    </div>
+</div>
+
+<!-- 引入外部JavaScript文件 -->
+<script src="font_anti.js"></script>
+<script>
+    // 动态加载字体的函数
+    function loadCustomFont(base64Font) {
+        // 移除之前的字体样式（如果存在）
+        console.log('加载自定义字体');
+        const existingStyle = document.getElementById('custom-font-style');
+        if (existingStyle) {
+            existingStyle.remove();
+        }
+
+        // 创建新的字体样式
+        const style = document.createElement('style');
+        style.id = 'custom-font-style';
+        style.textContent = `
+                @font-face {
+                    font-family: 'AntiSpiderFont';
+                    src: url(data:font/woff2;base64,${base64Font}) format('woff2');
+                    font-weight: normal;
+                    font-style: normal;
+                }
+                
+                                 .numbers-grid {
+                     font-family: 'AntiSpiderFont', monospace;
+                 }
+                 
+                 .number-item, .number, .data-item {
+                     font-family: 'AntiSpiderFont', monospace !important;
+                     font-variant-numeric: normal;
+                     font-feature-settings: normal;
+                 }
+                 
+                 /* 确保所有数字相关的元素都使用自定义字体 */
+                 .numbers-grid * {
+                     font-family: 'AntiSpiderFont', monospace !important;
+                 }
+            `;
+
+        // 添加到页面头部
+        document.head.appendChild(style);
+
+        console.log('自定义字体已加载');
+    }
+
+
+</script>
+</body>
+</html>
+
+

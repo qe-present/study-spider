@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>
+</head>
+<script>
+    function crypt(e) {
+        const t = "uVayqL4ONKjFbVzQ";
+        let  r = CryptoJS .enc.Utf8.parse(t)
+        let res = CryptoJS .AES.decrypt(e, r, {
+            mode: CryptoJS .mode.ECB,
+            padding: CryptoJS .pad.Pkcs7
+        });
+        try {
+
+            return JSON.parse(CryptoJS.enc.Utf8.stringify(res))
+        } catch (e) {
+            return e
+        }
+    }
+</script>
+<body>
+
+</body>
+</html>

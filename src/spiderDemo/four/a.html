@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+                <script type="module">
+                    import init, { encrypt_simple, aes_encrypt, get_timestamp } from './wasm_anti.js';
+                    init().then(() => {
+                    window.encrypt_simple = encrypt_simple;
+                    window.aes_encrypt = aes_encrypt;
+                    window.get_timestamp = get_timestamp;
+                    window.wasmReady = true;
+                    console.log('🔐 WASM 加密模块已就绪');
+                    }).catch(err => {
+                    console.error('❌ WASM 加载失败:', err);
+                    window.wasmReady = false;
+                    });
+                </script>
+ <script>
+     function get_ok(){
+         return window.wasmReady
+     }
+     function get_auth(page,timestamp){
+         let type="wasm_challenge"
+         let verifyString=`${type}_page_${page}`
+         return window.encrypt_simple(verifyString, timestamp);
+     }
+ </script>
+<body>
+</body>
+</html>
